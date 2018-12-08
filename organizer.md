@@ -19,9 +19,9 @@ description: Coming Soon - TBD
         <ul>
           <li><b>Prashant Kv</b>
           </li>
-          <li><b>Vandana Verma</b>
+          <li><b></b><a href="https://twitter.com/infosecVandana"><b>Vandana Verma</b></a><b></b>
           </li>
-          <li><b>Abhinav Sejpal </b>
+          <li><b></b><a href="https://twitter.com/abhinavsejpal"><b>Abhinav Sejpal </b></a><b></b>
           </li>
           <li><b>Aashish Kumar</b>
           </li>
