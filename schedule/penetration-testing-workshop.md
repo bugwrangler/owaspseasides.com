@@ -36,7 +36,7 @@ This is an introductory training for web application developers, students, inclu
 * \*\*\*\*[Vandana Verma](https://twitter.com/infosecVandana)
 * [Geeta Handa](https://twitter.com/handa_geeta)
 
-**Its mandatory register your spot in advance as we need to organise the seating logistics.** 
+**Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register \(Only Women Hackers\).**
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdsHX5T4psGYcBN4iMscy50nG9UAFdLYUmJlcodxpinjlx\_9A/viewform" %}
 
