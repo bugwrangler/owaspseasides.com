@@ -36,5 +36,7 @@ This is an introductory training for web application developers, students, inclu
 * \*\*\*\*[Vandana Verma](https://twitter.com/infosecVandana)
 * [Geeta Handa](https://twitter.com/handa_geeta)
 
+Registration Form :- Hands- on Web App Pentesting Workshop
+
 
 
