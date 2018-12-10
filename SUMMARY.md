@@ -5,12 +5,12 @@
 * [Sponsors](sponsor.md)
 * [Our Team](organizer.md)
 * [Contact](contact.md)
+* [Speakers](speakers.md)
+* [Participants](participants.md)
 
 ## Schedule
 
 * [Penetration Testing Workshop](schedule/penetration-testing-workshop.md)
-* [Speakers](schedule/speakers.md)
-* [Participants](schedule/participants.md)
 
 ## Events
 
