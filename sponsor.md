@@ -1,10 +1,8 @@
 ---
-description: SPONSORS
+description: TBD
 ---
 
 # Sponsors
 
  
-
-![ISECURION](.gitbook/assets/isecurion-cdr-x6_finallogo.png)
 
