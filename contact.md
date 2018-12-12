@@ -1,9 +1,3 @@
----
-description: >-
-  Contact us and we'll get back to you within 24 hours.
-  cfpowaspseasides@owasp.org
----
-
 # Contact
 
 

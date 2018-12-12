@@ -1,7 +1,3 @@
----
-description: 'Targeted Audience: Women Hackers (Facilitated by WIA + InfoSecGirls)'
----
-
 # Penetration Testing Workshop
 
 **Course Abstract**

@@ -1,9 +1,4 @@
 # Supporters
 
-<a href="https://payatu.com/"> <img src=".gitbook/assets/payatu_logo.png"> </a> 
-<a href="https://nullcon.net/"> <img src=".gitbook/assets/nullcon.png"> </a> 
-<a href="https://isecurion.com/"> <img src=".gitbook/assets/isecurion.png"> </a> 
-
-  
-  
+ [![](.gitbook/assets/payatu_logo.png)](https://payatu.com/)  [![](.gitbook/assets/nullcon.png)](https://nullcon.net/)  [![](.gitbook/assets/isecurion.png)](https://isecurion.com/)
 

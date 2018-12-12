@@ -1,7 +1,3 @@
----
-description: Coming Soon - TBD
----
-
 # Our Team
 
 
@@ -9,7 +5,7 @@ description: Coming Soon - TBD
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>OWASP Bangalore</b>
+      <th style="text-align:left"><b>OWASP </b>
       </th>
     </tr>
   </thead>
@@ -35,15 +31,15 @@ description: Coming Soon - TBD
           </li>
           <li><b></b><a href="https://twitter.com/pankajcupadhyay"><b>Pankaj</b></a><b></b>
           </li>
+          <li><b>Avkash</b>
+          </li>
+          <li><b>Sandeep Singh</b>
+          </li>
+          <li><b>Hrishikesh</b>
+          </li>
         </ul>
       </td>
     </tr>
   </tbody>
-</table>OWASP Chapter Leaders
-
-* **Avkash**
-* **Sandeep Singh**
-* **Hrishikesh**
-
-
+</table>
 
