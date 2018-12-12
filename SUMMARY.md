@@ -3,10 +3,10 @@
 * [About](README.md)
 * [CFP](cfp.md)
 * [Sponsors](sponsor.md)
-* [Our Team](organizer.md)
-* [Contact](contact.md)
 * [Speakers](speakers.md)
+* [Our Team](organizer.md)
 * [Supporters](supporter.md)
+* [Contact](contact.md)
 
 ## Schedule
 
