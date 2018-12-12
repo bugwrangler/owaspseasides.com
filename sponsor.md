@@ -1,6 +1,10 @@
 ---
-description: Coming Soon - TBD
+description: SPONSORS
 ---
 
 # Sponsors
+
+ 
+
+![ISECURION](.gitbook/assets/isecurion-cdr-x6_finallogo.png)
 
