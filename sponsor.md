@@ -7,7 +7,7 @@ At OWASP Seasides, You'll meet 100-150 members of the InfoSec community and perh
 Some of the events Trainings/Workshop we have planned for **27-28 Feb 2019**:
 
 1. **Application security training for Women** 
-2. **OWASP top10 and OWASP tools : detecting and mitigating vulnerabilities** 
+2. **OWASP Top10, ASVS & tools : detecting and mitigating vulnerabilities** 
 3. **Machine Learning 101 workshop**
 4. **Blockchain 101 workshop**
 5. **Mobile Application security workshop**
