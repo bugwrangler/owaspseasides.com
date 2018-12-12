@@ -29,7 +29,9 @@ description: Coming Soon - TBD
           </li>
           <li><a href="https://twitter.com/anantshri"><b>Anant Shrivastava</b></a><b></b>
           </li>
-          <li><b></b><a href="https://twitter.com/parveen1015"><b>Praveen Kumar</b></a><b></b>
+          <li><b>Abhinav P</b>
+          </li>
+          <li><b></b><a href="https://twitter.com/parveen1015"><b>Parveen Yadav</b></a><b></b>
           </li>
           <li><b></b><a href="https://twitter.com/pankajcupadhyay"><b>Pankaj</b></a><b></b>
           </li>
@@ -37,5 +39,11 @@ description: Coming Soon - TBD
       </td>
     </tr>
   </tbody>
-</table>
+</table>OWASP Chapter Leaders
+
+* **Avkash**
+* **Sandeep Singh**
+* **Hrishikesh**
+
+
 
