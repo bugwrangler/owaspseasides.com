@@ -5,13 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>OWASP </b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <ul>
           <li><b></b><a href="https://twitter.com/Goodbestguy"><b>Prashant Kv</b></a><b></b>
           </li>
@@ -38,8 +32,9 @@
           <li><b>Hrishikesh</b>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
+  </thead>
+  <tbody></tbody>
 </table>
 
