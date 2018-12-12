@@ -1,10 +1,8 @@
 # Supporters
 
-![https://payatu.com/](.gitbook/assets/payatu_logo.png)
-
-![https://nullcon.net](.gitbook/assets/nullcon.png)
-
-![https://isecurion.com/](.gitbook/assets/isecurion.png)
+<a href=https://payatu.com/> <img src=".gitbook/assets/payatu_logo.png"> </a> 
+<a href=https://nullcon.net/> <img src=".gitbook/assets/nullcon.png"> <a> 
+<a href=isecurion.com/> <img src=".gitbook/assets/isecurion.png"> <a> 
 
   
   
