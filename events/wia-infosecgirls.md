@@ -11,7 +11,13 @@ The purpose of Women in AppSec \(WIA\) Committee is for anyone who believes that
 **INFOSEC GIRLS**  
 Our main objective is to get women curious about information security. We aim to do this by encouraging more women to actively participate in events like security conferences & community meet-ups. https://www.infosecgirls.in/
 
-•Train Middle school girls and College Students.
+* Train Middle school girls and College Students.
+* Mentoring the women who wish to grow their career in Information security. 
 
-• Mentoring the women who wish to grow their career in Information security. 
+![](../.gitbook/assets/owasp_wia_50.jpg)
+
+![Infosecgirls](../.gitbook/assets/infosecgirls-logo.jpeg)
+
+  
+
 
