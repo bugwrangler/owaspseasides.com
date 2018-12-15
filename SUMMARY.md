@@ -10,7 +10,7 @@
 
 ## Schedule
 
-* [Penetration Testing -Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
+* [WebApp Pen-testing -Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
 
 ## Events
 
