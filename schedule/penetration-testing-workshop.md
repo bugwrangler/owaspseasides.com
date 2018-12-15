@@ -2,7 +2,7 @@
 description: Hands-on Web App Pen-testing  - Women Only Workshop (Free)
 ---
 
-# WebApp Pen-testing -Women Only Workshop \(Free\)
+# Women Only Workshop \(Free\)
 
 **Course Abstract**
 
