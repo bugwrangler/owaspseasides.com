@@ -23,7 +23,7 @@
           </li>
           <li><b></b><a href="https://twitter.com/parveen1015"><b>Parveen Yadav</b></a><b></b>
           </li>
-          <li><b></b><a href="https://twitter.com/pankajcupadhyay"><b>Pankaj</b></a><b></b>
+          <li><b></b><a href="https://twitter.com/pankajcupadhyay"><b>Pankaj</b></a><b> Upadhyay</b>
           </li>
           <li><b>Avkash</b>
           </li>
