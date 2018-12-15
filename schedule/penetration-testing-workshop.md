@@ -2,7 +2,7 @@
 description: Hands-on Web App Pen-testing  - Women Only Workshop (Free)
 ---
 
-# Penetration Testing Workshop
+# Penetration Testing -Women Only Workshop \(Free\)
 
 **Course Abstract**
 
