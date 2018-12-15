@@ -14,10 +14,6 @@ Our main objective is to get women curious about information security. We aim to
 * Train Middle school girls and College Students.
 * Mentoring the women who wish to grow their career in Information security. 
 
-![](../.gitbook/assets/owasp_wia_50.jpg)
-
-![Infosecgirls](../.gitbook/assets/infosecgirls-logo.jpeg)
-
   
 
 
