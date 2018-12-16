@@ -1,4 +1,8 @@
-# Penetration Testing Workshop
+---
+description: Hands-on Web App Pen-testing  - Women Only Workshop (Free)
+---
+
+# Women Only Workshop \(Free\)
 
 **Course Abstract**
 
@@ -8,7 +12,7 @@ In this completely hands-on workshop, you would get to understand the techniques
 
 ![](../.gitbook/assets/screen-shot-2018-12-08-at-13.43.42.png)
 
-**Upon Completion of this training, attendees will know:** 
+**Upon Completion of this Workshop, attendees will know:** 
 
 * Scope a security review and priorities the work. 
 * Understand the manual and automated tools and techniques available and when to apply them.
@@ -25,7 +29,7 @@ In this completely hands-on workshop, you would get to understand the techniques
 
 **Prerequisites for attendees:**
 
-This is an introductory training for web application developers, students, including those new to application security. The course has been developed to train learners at all levels.
+This is an introductory Workshop for web application developers, students, including those new to application security. The course has been developed to train learners at all levels.
 
 **Trainers:** 
 

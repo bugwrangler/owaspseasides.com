@@ -10,10 +10,10 @@
 
 ## Schedule
 
-* [Penetration Testing Workshop](schedule/penetration-testing-workshop.md)
+* [Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
 
 ## Events
 
-* [WIA infosecgirls](events/wia-infosecgirls.md)
+* [WIA & infosecgirls](events/wia-infosecgirls.md)
 * [Soldering Village](events/soldering-village.md)
 
