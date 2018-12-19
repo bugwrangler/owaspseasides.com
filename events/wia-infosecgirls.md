@@ -1,5 +1,5 @@
 ---
-description: ABOUT US
+description: TBD
 ---
 
 # WIA & infosecgirls
