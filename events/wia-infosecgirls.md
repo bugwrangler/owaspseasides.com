@@ -2,7 +2,7 @@
 description: TBD
 ---
 
-# WIA & infosecgirls
+# Infosecgirls & OWASP WIA
 
 **OWASP Women in Application Security \(WIA\) Committee**
 

@@ -14,6 +14,6 @@
 
 ## Events
 
-* [WIA & infosecgirls](events/wia-infosecgirls.md)
+* [Infosecgirls & OWASP WIA](events/wia-infosecgirls.md)
 * [Soldering Village](events/soldering-village.md)
 
