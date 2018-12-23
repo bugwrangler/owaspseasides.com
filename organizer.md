@@ -19,7 +19,7 @@
           </li>
           <li><a href="https://twitter.com/anantshri"><b>Anant Shrivastava</b></a>
           </li>
-          <li><b>Abhinav P</b>
+          <li><b><a href="https://twitter.com/TweetsFromPanda"> Abhinav P</b><a>
           </li>
           <li><a href="https://twitter.com/parveen1015"><b>Parveen Yadav</b></a>
           </li>
