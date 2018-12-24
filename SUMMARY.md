@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [CFP](cfp.md)
+* [CFT](cft.md)
 * [Sponsors](sponsor.md)
 * [Speakers](speakers.md)
 * [Our Team](organizer.md)
