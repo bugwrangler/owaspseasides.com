@@ -1,8 +1,8 @@
 # Table of contents
 
 * [About](README.md)
-* [CFP](cfp.md)
-* [CFT](cft.md)
+* [Call for Papers \(CFP\)](cfp.md)
+* [Call for Tools \(CFT\)](cft.md)
 * [Sponsors](sponsor.md)
 * [Speakers](speakers.md)
 * [Our Team](organizer.md)
