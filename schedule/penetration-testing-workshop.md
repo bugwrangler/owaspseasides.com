@@ -1,3 +1,7 @@
+---
+description: Web Application Security Workshop - Full Day (28th February)
+---
+
 # Women Only Workshop \(Free\)
 
 **Course Abstract**
