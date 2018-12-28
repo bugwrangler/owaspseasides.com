@@ -11,7 +11,6 @@
 
 ## Schedule
 
-* [Mobile Apps - Pentesting](schedule/mobile-apps-pentesting.md)
 * [Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
 
 ## Events
