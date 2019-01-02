@@ -16,6 +16,7 @@
 * [Learning Secure Development from Blockchained](schedule/learning-secure-development-from-blockchained.md)
 * [Android Security Training](schedule/android-security-training.md)
 * [Modern iOS App Pentesting And Security for Fun and Profit](schedule/modern-ios-app-pentesting-and-security-for-fun-and-profit.md)
+* [Building your first AppSec pipeline with all bells and whistles](schedule/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
 
 ## Events
 
