@@ -2,11 +2,11 @@
 description: 'Full Day - 28th February, 2019 (9AM- 5PM)'
 ---
 
-# Learning Secure Development from Blockchained
+# Learning Secure Development from Blockchain
 
 **Abstract :**
 
-Let's Attack the Bitcoin's Blockchian implementation and learn how worlds most valued financial network is also worlds most secure given the fact its completely open and autonomous.  
+Let's Attack the Bitcoin's Blockchain implementation and learn how worlds most valued financial network is also worlds most secure given the fact its completely open and autonomous.  
 In this workshop we will do threat modelling of a Bitcoin's blockchain implementation and study its layer by layer design to thwart the listed threats.We enumerate and understand each single crypto constructs used in every layer and how it is secure now and also in the wake of Quantum Computing realisation in near future.
 
 **Overview:**  
