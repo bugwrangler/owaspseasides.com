@@ -8,10 +8,12 @@
 * [Our Team](organizer.md)
 * [Supporters](supporter.md)
 * [Contact](contact.md)
+* [Untitled](untitled.md)
 
 ## Schedule
 
 * [Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
+* [Learning Secure Development from Blockchained](schedule/learning-secure-development-from-blockchained.md)
 
 ## Events
 
