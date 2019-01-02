@@ -1,4 +1,4 @@
-# Infosecgirls & OWASP WIA
+# Diversity
 
 **OWASP Women in Application Security \(WIA\) Committee**
 
