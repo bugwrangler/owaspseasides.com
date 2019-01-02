@@ -14,6 +14,7 @@
 
 * [Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchained](schedule/learning-secure-development-from-blockchained.md)
+* [Android Security Training](schedule/android-security-training.md)
 
 ## Events
 
