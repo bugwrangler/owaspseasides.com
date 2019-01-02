@@ -1,5 +1,5 @@
 ---
-description: Learning Secure Development from Blockchain - Full Day (28th February)
+description: 'Full Day - 28th February, 2019 (9 AM- 5 PM)'
 ---
 
 # Learning Secure Development from Blockchained
