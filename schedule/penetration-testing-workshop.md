@@ -4,11 +4,9 @@ description: 'Full Day - 28th February, 2019 (9AM- 5PM)'
 
 # Women Only - Web Application Security Workshop\(Free\)
 
-**Course Abstract**
+**Abstract**
 
 In this completely hands-on workshop, you would get to understand the techniques and methodologies that could be applied when performing a web application penetration testing. Throughout this workshop, you would be using Burp Suite tool + OWASP ZAP, which is a conglomerate of distinct tools with powerful features. Apart from gaining familiarity with the tools and the techniques involved in application security testing, you would also get an opportunity to understand some of the common vulnerabilities from the OWASP Top 10 – 2017 list. We would provide you with a vulnerable website, and you would uncover security issues in it even if you have never done this before!
-
-\*\*\*\*
 
 ![](../.gitbook/assets/screen-shot-2018-12-08-at-13.43.42.png)
 
