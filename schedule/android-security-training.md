@@ -1,3 +1,7 @@
+---
+description: 'Full Day - 27th February, 2019 (9AM- 5PM)'
+---
+
 # Mobile Security Training
 
 ## First Half - 27th February 2019 \(9AM - 1PM\) ****
