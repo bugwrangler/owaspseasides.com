@@ -12,7 +12,7 @@
 
 ## Schedule
 
-* [Women Only Workshop \(Free\)](schedule/penetration-testing-workshop.md)
+* [Women Only - Web Application Security Workshop\(Free\)](schedule/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchained](schedule/learning-secure-development-from-blockchained.md)
 * [Android Security Training](schedule/android-security-training.md)
 * [Modern iOS App Pentesting And Security for Fun and Profit](schedule/modern-ios-app-pentesting-and-security-for-fun-and-profit.md)

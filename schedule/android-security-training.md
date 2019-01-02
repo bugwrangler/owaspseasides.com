@@ -1,5 +1,5 @@
 ---
-description: 'Half Day - 27th February, Timings (9AM - 1PM)'
+description: Half Day - 27th February 2019 (9AM - 1PM)
 ---
 
 # Android Security Training

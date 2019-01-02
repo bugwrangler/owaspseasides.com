@@ -1,5 +1,5 @@
 ---
-description: 'Full Day - 28th February, 2019 (9 AM- 5 PM)'
+description: 'Full Day - 28th February, 2019 (9AM- 5PM)'
 ---
 
 # Learning Secure Development from Blockchained
