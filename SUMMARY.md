@@ -12,7 +12,7 @@
 
 ## Schedule
 
-* [Mobile Security Training](schedule/android-security-training.md)
+* [Mobile Security Workshop](schedule/android-security-training.md)
 * [Women Only - Web Application Security Workshop\(Free\)](schedule/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchain](schedule/learning-secure-development-from-blockchained.md)
 * [Building your first AppSec pipeline with all bells and whistles](schedule/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
