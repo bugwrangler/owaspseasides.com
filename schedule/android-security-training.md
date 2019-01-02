@@ -64,6 +64,12 @@ Android Application Penetration Testing Training is intended for students/profes
 
     ● Poor Code Quality
 
+**About Trainers**
+
+**Trainer 1:** Nikhil P K Nikhil is a Security Researcher and an International Security Trainer. His area of interest includes Web Application Penetration Testing, Mobile Application Security and Machine Learning. He has presented his talks at International and National level Conferences and meets such as Nuit Du Hack Paris, OWASP AppSec, Cocon International Cyber Policing and Security Conference, DEFCON Bangalore Chapter, Null Open Security Meet Bangalore, Null Open Security Meet Mysore. He is also a Bug Bounty Hunter and has been listed and Acknowledged in the Hall Of Fames of Companies such as Microsoft, Apple, Adobe, Nokia, Engine Yard and AVIRA Antivirus.
+
+**Trainer 2:** Asha Muniyappa Asha is a Mobile application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. Her expertise is in Application Security, with key research areas of interest including Mobile Apps, Hacking. She is passionate to learn new techniques for attacking mobile apps and have been researching on performing attack simulations on the apps to determine and exploit security flaws.
+
 ## Second Half  - 27th February 2019 \(2PM - 6PM\)
 
 **Modern iOS App Pentesting And Security for Fun and Profit**
@@ -111,10 +117,6 @@ This hands-on session will discuss recent case studies of critical findings in i
 * Designing secure iOS applications
 
 **About Trainers**
-
-**Trainer 1:** Nikhil P K Nikhil is a Security Researcher and an International Security Trainer. His area of interest includes Web Application Penetration Testing, Mobile Application Security and Machine Learning. He has presented his talks at International and National level Conferences and meets such as Nuit Du Hack Paris, OWASP AppSec, Cocon International Cyber Policing and Security Conference, DEFCON Bangalore Chapter, Null Open Security Meet Bangalore, Null Open Security Meet Mysore. He is also a Bug Bounty Hunter and has been listed and Acknowledged in the Hall Of Fames of Companies such as Microsoft, Apple, Adobe, Nokia, Engine Yard and AVIRA Antivirus.
-
-**Trainer 2:** Asha Muniyappa Asha is a Mobile application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. Her expertise is in Application Security, with key research areas of interest including Mobile Apps, Hacking. She is passionate to learn new techniques for attacking mobile apps and have been researching on performing attack simulations on the apps to determine and exploit security flaws.
 
 **Trainer 3:** Swaroop Yermalkar works as Lead Security Engineer and has authored the popular book “Learning iOS Pentesting” \([https://goo.gl/T8jvjJ](https://goo.gl/T8jvjJ)\). Swaroop also lead an open source project - OWASP iGoat \([https://igoatapp.com/](https://igoatapp.com/)\) which is developed for mobile security. He is one of the top bug bounty researchers worldwide, working with Cobalt.io \([https://app.cobalt.io/swaroopsy](https://app.cobalt.io/swaroopsy)\), Synack.inc. ****He has given talks and workshops at many security conferences including AppSec Israel, AppSec USA 2018, BruCON, SEC-T, EuropeanSec, Hacks in Taiwan \(HITCON\), GroundZero, c0c0n, 0x90, GNUnify. You can reach out to Swaroop at [@swaroopsy](https://twitter.com/swaroopsy).
 
