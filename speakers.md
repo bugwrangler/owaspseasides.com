@@ -8,6 +8,8 @@
 | **Asha Muniyappa** |
 | \*\*\*\*[**Swaroop** **Yermalkar**](https://twitter.com/swaroopsy) |
 | **Shilpa Ranganatha** |
+| **Glenn ten Cate** |
+| **Riccardo ten Cate** |
 
 
 
