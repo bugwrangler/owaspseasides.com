@@ -7,8 +7,8 @@
 * [Speakers](speakers.md)
 * [Our Team](organizer.md)
 * [Supporters](supporter.md)
-* [Contact](contact.md)
-* [Untitled](untitled.md)
+* [Social Media](contact.md)
+* [Get in Touch](untitled.md)
 
 ## Schedule
 
