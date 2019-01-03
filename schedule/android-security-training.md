@@ -122,3 +122,5 @@ This hands-on session will discuss recent case studies of critical findings in i
 
 **Trainer 4:** Shilpa Ranganatha is an iOS  application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. She is keen to expand her horizons and constantly strives to find zero-day vulnerabilities in client  applications.
 
+{% embed url="https://docs.google.com/forms/d/1jiOZ7pxuqNHQsJhAuL9MDvC2nefDemFhc4SnNmbhclI" %}
+
