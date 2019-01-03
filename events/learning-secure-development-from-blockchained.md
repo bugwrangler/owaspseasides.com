@@ -1,7 +1,3 @@
----
-description: 'Full Day - 28th February, 2019 (9AM- 6PM)'
----
-
 # Learning Secure Development from Blockchain
 
 **Abstract :**
@@ -10,7 +6,7 @@ Let's Attack the Bitcoin's Blockchain implementation and learn how worlds most v
 In this workshop we will do threat modelling of a Bitcoin's blockchain implementation and study its layer by layer design to thwart the listed threats.We enumerate and understand each single crypto constructs used in every layer and how it is secure now and also in the wake of Quantum Computing realisation in near future.
 
 **Overview:**  
-1. Introduction to Blockchain.2. How a block looks like on the disc3. What crypto-constructs go in each block4. Threat Modelling of Blockchain.\* List down all applicable threat to blockchain with the help of the participants5. Learning Defense in depth, built in the block design6. Scripts in Bitcoins7. Smart Contracts and security issues with a case study of Ethereum8. Where Bitcoins go wrong?9. Summing it up  
+ 1. Introduction to Blockchain 2. How a block looks like on the disc3. What crypto-constructs go in each block4. Threat Modelling of Blockchain.\* List down all applicable threat to blockchain with the help of the participants5. Learning Defense in depth, built in the block design6. Scripts in Bitcoins7. Smart Contracts and security issues with a case study of Ethereum8. Where Bitcoins go wrong?9. Summing it up  
 Take Aways :  
 1. Understanding of the building blocks of cryptography used in Blockchain technology2. How to threat model a complex system3. How to deal with security threats in an un-trusted, distributed environment4. How to build a financial system securely.5. Smart contracts, dumb implementation6. Dos and Donts of cryptography considering the quantum threat7. Above all, understand What blockchain is and what it is Not.
 

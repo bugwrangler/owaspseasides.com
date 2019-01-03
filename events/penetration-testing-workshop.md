@@ -1,8 +1,4 @@
----
-description: 'Full Day - 28th February, 2019 (9AM- 6PM)'
----
-
-# Women Only - Web Application Security Workshop\(Free\)
+# Women Only - Web Application Security \(Free\)
 
 **Abstract**
 
