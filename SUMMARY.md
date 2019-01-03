@@ -14,6 +14,7 @@
 
 * [Workshops On 27th February, 2019](schedule/workshops-on-27th-february-2019.md)
 * [Workshops On 28th February, 2019](schedule/workshops-on-28th-february-2019.md)
+* [Diversity Partner](schedule/wia-infosecgirls.md)
 
 ## Events
 
@@ -21,7 +22,6 @@
 * [Women Only - Web Application Security Workshop\(Free\)](events/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
 * [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
-* [Diversity Partner](events/wia-infosecgirls.md)
 * [Soldering Village](events/soldering-village.md)
 
 ## Evening Talks on 27th February, 2019
