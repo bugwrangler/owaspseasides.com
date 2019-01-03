@@ -1,6 +1,6 @@
-# Workshops
+# Conference at a glance
 
-**Workshop** 
+## **Workshops**
 
 | Wednesday, 27th Feb | Thursday, 28th Feb  |
 | :--- | :--- |

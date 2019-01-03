@@ -12,7 +12,7 @@
 
 ## Schedule
 
-* [Workshops](schedule/workshops.md)
+* [Conference at a glance](schedule/workshops.md)
 * [Diversity Partner](schedule/wia-infosecgirls.md)
 
 ## Events
