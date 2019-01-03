@@ -1,3 +1,7 @@
+---
+description: All the Workshops are Free for anyone who wish to attend.
+---
+
 # Workshops On 28th February, 2019
 
 1. \*\*\*\*[**Web Application Pentesting Workshop - Women Only**](https://www.owaspseasides.com/events/penetration-testing-workshop)\*\*\*\*
