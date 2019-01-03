@@ -23,6 +23,7 @@
 * [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
 * [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
 * [Soldering Village](events/soldering-village.md)
+* [Reversing and Exploitation of Vehicle \(CAR Hacking\)](events/car-hacking-village.md)
 
 ## Evening Talks on 27th February, 2019
 
