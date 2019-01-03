@@ -1,5 +1,5 @@
 ---
-description: 'Full Day - 28th February, 2019 (9AM- 5PM)'
+description: 'Full Day - 28th February, 2019 (9AM- 6PM)'
 ---
 
 # Reversing and Exploitation of Vehicle \(CAR Hacking\)

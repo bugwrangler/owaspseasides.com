@@ -19,12 +19,12 @@
 ## Events
 
 * [Mobile Security Workshop](events/android-security-training.md)
+* [Machine Learning 101 Workshop](events/machine-learning-101-workshop.md)
 * [Women Only - Web Application Security Workshop\(Free\)](events/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
 * [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
-* [Soldering Village](events/soldering-village.md)
 * [Reversing and Exploitation of Vehicle \(CAR Hacking\)](events/car-hacking-village.md)
-* [Machine Learning 101 Workshop](events/machine-learning-101-workshop.md)
+* [Soldering Village](events/soldering-village.md)
 
 ## Evening Talks on 27th February, 2019
 
