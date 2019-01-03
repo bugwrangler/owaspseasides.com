@@ -8,7 +8,7 @@
 * [Our Team](organizer.md)
 * [Supporters](supporter.md)
 * [Social Media](contact.md)
-* [Get in Touch](untitled.md)
+* [Get in Touch](contact-1.md)
 
 ## Schedule
 
