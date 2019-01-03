@@ -9,7 +9,12 @@ The process of learning begins with observations or data, such as examples, dire
   
 Brief history of Machine LearningType of ML AlgorithmsData visualisation hands on with MatplotlibData Aggregation, manipulation, and cleaning hands on problem solving with PandasHands on Mathematical operations on data with NumpyTheoretical understanding of Classification, Regression, and ClusteringHands on Project          
 
- \* Deal with imperfect real world dataset           \* Validate a machine learning result using test data           \* Evaluate a machine learning result using quantitative metrics           \* Create, select, and transform features compare the performance of machine learning algorithms           \* Tune machine learning algorithm for maximum performance           \* Communicate your machine learning results clearly   
+Deal with imperfect real world dataset  
+Validate a machine learning result using test data  
+Evaluate a machine learning result using quantitative metrics  
+Create, select, and transform features compare the performance of machine learning algorithms  
+Tune machine learning algorithm for maximum performance  
+Communicate your machine learning results clearly  
   
 **Prerequisites** -  
 Basics of Python Programming  
