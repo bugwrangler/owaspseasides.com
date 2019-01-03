@@ -13,6 +13,7 @@
 ## Schedule
 
 * [Workshops On 27th February, 2019](schedule/workshops-on-27th-february-2019.md)
+* [Workshops On 28th February, 2019](schedule/workshops-on-28th-february-2019.md)
 
 ## Events
 
