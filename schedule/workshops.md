@@ -6,32 +6,15 @@ description: >-
 
 # Conference at a glance
 
-<table class="tg">
-  <tr>
-    <th class="tg-7btt" colspan="3">Workshop</th>
-  </tr>
-  <tr>
-    <td class="tg-7btt" rowspan="5"><br><br>Timings<br><br>10 AM to 5 PM<br></td>
-    <td class="tg-7btt">Wednesday, 27th Feb</td>
-    <td class="tg-7btt">Thursday, 28th Feb</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Mobile App Security</td>
-    <td class="tg-0pky">Web Application Pentesting Workshop - Women Only*</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Machine Learning 101</td>
-    <td class="tg-0lax">Learning Secure Development from Blockchain</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Reversing and Exploitation of Vehicle (CAR Hacking)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Building your first AppSec pipeline with all bells and whistles</td>
-  </tr>
-</table>
+## **Workshops**
+
+|       Timings | Wednesday, 27th Feb |                                Thursday, 28th Feb  |
+| :---: | :--- | :--- |
+| **9:30 AM - 5:00 PM**     | [**Mobile App Security**](https://www.owaspseasides.com/events/mobile-appsecurity) **** | [**Web Application Pentesting Workshop - Women Only**](https://www.owaspseasides.com/events/penetration-testing-workshop)\*\*\*\* |
+|  | [**Machine Learning 101** ](https://www.owaspseasides.com/events/machine-learning-101-workshop)    **** | \*\*\*\*[**Learning Secure Development from Blockchain**](https://www.owaspseasides.com/events/learning-secure-development-from-blockchained)\*\*\*\* |
+|  |  | \*\*\*\*[**Building your first AppSec pipeline with all bells and whistles**](https://www.owaspseasides.com/events/building-your-first-appsec-pipeline-with-all-bells-and-whistles) |
+|  |  | \*\*\*\*[**Reversing and Exploitation of Vehicle \(CAR Hacking\)**](https://www.owaspseasides.com/events/car-hacking-village)\*\*\*\* |
+
 
 
 
