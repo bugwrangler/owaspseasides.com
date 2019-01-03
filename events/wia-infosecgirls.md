@@ -1,4 +1,4 @@
-# Diversity
+# Diversity Partner
 
 **OWASP Women in Application Security \(WIA\) Committee**
 
