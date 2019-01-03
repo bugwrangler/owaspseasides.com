@@ -15,3 +15,7 @@ description: >-
 |  | [**Building your first AppSec pipeline with all bells and whistles**](https://www.owaspseasides.com/events/building-your-first-appsec-pipeline-with-all-bells-and-whistles) |
 |  | [**Reversing and Exploitation of Vehicle \(CAR Hacking\)**](https://www.owaspseasides.com/events/car-hacking-village) |
 
+## **Tool Showcase, Evening Talks \(Coming Soon\)**
+
+\*\*\*\*
+
