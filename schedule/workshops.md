@@ -6,7 +6,7 @@ description: >-
 
 # Conference at a glance
 
-## **Workshops \(9:30 AM - 5:00 PM\)** 
+## **Workshops \(9:30 AM - 5:30 PM\)** 
 
 | **Wednesday, 27th Feb** |                             **Thursday, 28th Feb** |
 | :--- | :--- |
