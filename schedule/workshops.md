@@ -6,9 +6,6 @@ description: >-
 
 # Conference at a glance
 
-## **Workshops**
-
-
 <table class="tg">
   <tr>
     <th class="tg-7btt" colspan="3">Workshop</th>
