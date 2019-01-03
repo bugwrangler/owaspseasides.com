@@ -1,7 +1,7 @@
 ---
 description: >-
-  Workshops are Free for anyone to attend, Please register for one training per
-  day as all trainings will run in Parallel.
+  Workshops are free to attend, however, please register for one workshop per
+  day as the workshop track will run in Parallel.
 ---
 
 # Conference at a glance
