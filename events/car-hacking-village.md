@@ -44,7 +44,7 @@ About Trainer
 
 **Arun Mane**
 
-**Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
+**It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
 
 {% embed url="https://docs.google.com/forms/d/1lRT0bsqYOOVfZetrufFLELemHT\_myRcT7jQn3PtdBkw/viewform?edit\_requested=true" %}
 

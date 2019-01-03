@@ -8,7 +8,7 @@ The soldering village will consist of multiple soldering stations. All attendees
 
 **There are no prerequisites**. Just an open mind and willingness to turn electronic components into a moving-buzzing Bee. Attendees are encouraged to experiment further with different components post village on their own and build their own Bee of creativity. Most creative Bees will win swag from Hackerwares. Solder On! 
 
-**Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register \(Only Women Hackers\).**
+**It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
 
 {% embed url="https://goo.gl/forms/yKJEw2WRZL1ZNXw62" %}
 
