@@ -12,13 +12,14 @@
 
 ## Schedule
 
-* [Mobile Security Workshop](schedule/android-security-training.md)
-* [Women Only - Web Application Security Workshop\(Free\)](schedule/penetration-testing-workshop.md)
-* [Learning Secure Development from Blockchain](schedule/learning-secure-development-from-blockchained.md)
-* [Building your first AppSec pipeline with all bells and whistles](schedule/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
+* [Workshops On 27th February, 2019](schedule/workshops-on-27th-february-2019.md)
 
 ## Events
 
+* [Mobile Security Workshop](events/android-security-training.md)
+* [Women Only - Web Application Security Workshop\(Free\)](events/penetration-testing-workshop.md)
+* [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
+* [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
 * [Diversity](events/wia-infosecgirls.md)
 * [Soldering Village](events/soldering-village.md)
 
