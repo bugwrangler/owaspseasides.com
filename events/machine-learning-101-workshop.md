@@ -25,3 +25,5 @@ Basics of Python Programming
 
 **It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
 
+{% embed url="https://docs.google.com/forms/d/15O3KIYA4ew3K9UFNznUEaiAyglpuAcGTXY7zAPkKT1o/viewform?edit\_requested=true" %}
+
