@@ -26,5 +26,7 @@ Trough pain and lessons learned we want to share our experiences in the form of 
 
 Riccardo also has expertise on implementing security test automation in CI/CD pipelines. This helps create short feedback loops back to the developer and prevents bugs from getting into production into an early phase of the development lifecycle.
 
+**Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register \(Only Women Hackers\).**
+
 {% embed url="https://docs.google.com/forms/d/1ebqWzu0mU3d\_BGf4sQ\_rGKzMcIUpoLjYq0enRkYmngY/" %}
 
