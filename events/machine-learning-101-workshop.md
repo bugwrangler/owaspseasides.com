@@ -1,5 +1,5 @@
 ---
-description: Full Day Workshop - 27th February 2019 (9AM - 1PM)
+description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
 ---
 
 # Machine Learning 101
