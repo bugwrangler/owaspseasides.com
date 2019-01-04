@@ -39,6 +39,8 @@ Professionals from enterprise, banking and financial organisations, LEA and any 
 **Ajit Hatti** is founder of PureID and has recently conducted Blockchain Security Village in DEF CON 26 at Las Vegas. He has been working on Securing Crypto Implementations from last 5 years and is also author of LAMMA and GibberSense, SCODA the crypto auditing tools.  
 Ajit is also the co-founder of Null Open security community and Nullcon. He loves to volunteer and present some thing at DEFCON and BlackHat USA, every year.
 
+\*Note: Registration details will be shared with Trainers and Sponsors
+
 **It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
 
 {% embed url="https://docs.google.com/forms/d/1QXnVabXX4MgeBov3D9pN\_GLIkOrWjW4qvBQuDhGWuCc" %}
