@@ -1,3 +1,7 @@
+---
+description: Full Day Workshop - 28th February 2019 (9AM - 1PM)
+---
+
 # Building your first AppSec pipeline with all bells and whistles
 
 **Abstract of the workshop:**

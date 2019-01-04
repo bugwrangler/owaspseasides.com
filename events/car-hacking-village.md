@@ -1,3 +1,7 @@
+---
+description: Full Day Workshop - 28th February 2019 (9AM - 1PM)
+---
+
 # Reversing and Exploitation of Vehicle \(CAR Hacking\)
 
 **Abstract**

@@ -1,3 +1,7 @@
+---
+description: Full Day Workshop - 27th February 2019 (9AM - 1PM)
+---
+
 # Mobile App Security
 
 ## First Half - 27th February 2019 \(9AM - 1PM\) ****

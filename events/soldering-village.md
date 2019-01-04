@@ -1,3 +1,7 @@
+---
+description: Full Day Workshop - 28th February 2019 (9AM - 1PM)
+---
+
 # Soldering Village
 
 **Soldering** is one of the essential skills in today’s world with applications ranging from electronics, jewellery, craft items to plumbing and metal work. Our goal is to teach soldering and basic electronics to anyone and everyone in the most creative and fun way possible.
