@@ -22,6 +22,7 @@
 
 * [Mobile App Security](events/mobile-appsecurity.md)
 * [Machine Learning 101](events/machine-learning-101-workshop.md)
+* [Bug hunter's methodology](events/bug-hunters-methodology.md)
 * [Women Only - Web Application Security \(Free\)](events/penetration-testing-workshop.md)
 * [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
 * [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
