@@ -38,31 +38,33 @@ Android Application Penetration Testing Training is intended for students/profes
 
 **TABLE OF CONTENT**
 
-1. Introduction to Android
-2. Android Security Architecture
-3. Android Permission Model
-4. Application Sandboxing
-5. Setting up Mobile Pentest Environment
-6. Signing Android Applications
-7. Android Application Architecture
-8. Reverse Engineering
-9. Android Application Components
-10. Investigating app permissions through manifest file
-11. Bypassing Android Permissions
-12. Dynamic and static analysis of the application
-13. OWASP Mobile TOP 10 Vulnerabilities practical hands on:
+* ●  Introduction to Android
 
-    ● Insecure Data Storage
+  ●  Android Security Architecture
 
-    ● Unintended Data Leakage
+  ●  Android Permission Model
 
-    ● Insecure Communication
+  ●  Application Sandboxing
 
-    ● Insufficient Cryptography
+  ●  Setting up Mobile Pentest Environment
 
-    ● Insecure Authorization
+  ●  Android Application Architecture
 
-    ● Poor Code Quality
+  ●  Reverse Engineering
+
+  ●  Bypassing Android Permissions
+
+  ●  Dynamic and static analysis of the application
+
+  ●  Insecure Data Storage
+
+  ●  Insecure Communication
+
+  ●  Insufficient Cryptography
+
+  ●  Insecure Authentication
+
+  ●  Poor Code Quality
 
 **About Trainers**
 
