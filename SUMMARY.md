@@ -11,10 +11,10 @@
 
 ## OWASP Seasides
 
-* [Speakers](owasp-seasides/speakers.md)
-* [Our Team](owasp-seasides/organizer.md)
 * [Sponsors](owasp-seasides/sponsor.md)
 * [Supporters](owasp-seasides/supporter.md)
+* [Speakers](owasp-seasides/speakers.md)
+* [Our Team](owasp-seasides/organizer.md)
 * [Social Media](owasp-seasides/contact.md)
 * [Get in Touch](owasp-seasides/contact-1.md)
 
