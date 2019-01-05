@@ -3,17 +3,20 @@
 * [About](README.md)
 * [Call for Papers \(CFP\)](cfp.md)
 * [Call for Tools \(CFT\)](cft.md)
-* [Sponsors](sponsor.md)
-* [Speakers](speakers.md)
-* [Our Team](organizer.md)
-* [Supporters](supporter.md)
-* [Social Media](contact.md)
-* [Get in Touch](contact-1.md)
 
 ## Schedule
 
 * [Conference at a glance](schedule/workshops.md)
 * [Diversity Partner](schedule/wia-infosecgirls.md)
+
+## OWASP Seasides
+
+* [Speakers](owasp-seasides/speakers.md)
+* [Our Team](owasp-seasides/organizer.md)
+* [Sponsors](owasp-seasides/sponsor.md)
+* [Supporters](owasp-seasides/supporter.md)
+* [Social Media](owasp-seasides/contact.md)
+* [Get in Touch](owasp-seasides/contact-1.md)
 
 ## Events
 
