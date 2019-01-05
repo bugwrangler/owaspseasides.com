@@ -1,10 +1,10 @@
 # Speakers
 
-| **​**[**Vandana Verma**](https://twitter.com/infosecVandana)**​** |
+| [**Jason Haddix**](https://twitter.com/jhaddix)\*\*\*\* |
 | :--- |
+| \*\*\*\*[**Vandana Verma**](https://twitter.com/InfosecVandana)\*\*\*\* |
 | \*\*\*\*[**Geeta Handa**](https://twitter.com/handa_geeta)**​** |
 | \*\*\*\*[**Ajit Hatti**](https://twitter.com/ajithatti)\*\*\*\* |
-| [**Jason Haddix**](https://twitter.com/jhaddix)\*\*\*\* |
 | \*\*\*\*[**Nikhil P K**](https://twitter.com/nikchillz) |
 | **Asha Muniyappa** |
 | \*\*\*\*[**Swaroop** **Yermalkar**](https://twitter.com/swaroopsy) |
