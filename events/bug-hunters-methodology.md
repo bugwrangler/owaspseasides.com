@@ -2,7 +2,7 @@
 description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
 ---
 
-# Bug hunter's methodology
+# Bug Hunter's Methodology
 
 **Course Abstract**
 
@@ -63,4 +63,6 @@ These trainings are 100% FREE to all OWASP Seasides attendees, first come first 
 
 **About the trainer**  
 **Jason Haddix** is the Director of Technical Operations at Bugcrowd. Jason trains and works with internal analysts to triage and validate hardcore vulnerabilities in mobile, web, and IoT applications/devices. He also works with Bugcrowd to improve the security industries relations with the researchers. Jason’s interests and areas of expertise include mobile penetration testing, black box web application auditing, network/infrastructural security assessments, wireless network assessment, binary reverse engineering, and static analysis.
+
+{% embed url="https://docs.google.com/forms/d/1a669t-Be-PUoIBhSZjCWKtIsenkJ3IcaqbGO6QqBqAo/viewform?edit\_requested=true" %}
 
