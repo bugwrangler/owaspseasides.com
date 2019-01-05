@@ -15,6 +15,8 @@ description: >-
 |  | [**Building your first AppSec pipeline with all bells and whistles**](https://www.owaspseasides.com/events/building-your-first-appsec-pipeline-with-all-bells-and-whistles) |
 |  | [**Reversing and Exploitation of Vehicle \(CAR Hacking\)**](https://www.owaspseasides.com/events/car-hacking-village) |
 
+**NOTE\***  Workshops are 100% FREE to all OWASP Seasides attendees, first come first served basis only!
+
 ## **Tool Showcase, Evening Talks \(Coming Soon\)**
 
 \*\*\*\*
