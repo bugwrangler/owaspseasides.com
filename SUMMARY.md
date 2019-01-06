@@ -3,6 +3,7 @@
 * [About OWASP Seasides](README.md)
 * [Call for Papers \(CFP\)](cfp.md)
 * [Call for Tools \(CFT\)](cft.md)
+* [Venue Details](venue-details.md)
 
 ## Schedule
 
