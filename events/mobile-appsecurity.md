@@ -6,7 +6,7 @@ description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
 
 ## First Half - 27th February 2019 \(9AM - 1PM\) ****
 
-**Android Security Workshop** 
+**Android App Security Workshop** 
 
 Android Application Penetration Testing Training is intended for students/professionals who are interested to make career in Mobile application penetration testing domain. It involves decompiling, real-time analysing and testing android application from security point of view. This training covers understanding the internals of android app, Real-time testing of android applications and some OWASP Mobile Top-10 security issues like Insecure logging, Unintended data leakage, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code quality.
 
@@ -33,38 +33,25 @@ Android Application Penetration Testing Training is intended for students/profes
 **REQUIREMENTS**
 
 * Laptop with minimum 30 GB Hard Disk Space & 6GB RAM with administrative privileges 
-* Updated Virtualbox installed
+* Updated Virtual-box installed
 * 2 Functional USB Ports
 
 **TABLE OF CONTENT**
 
-* ●  Introduction to Android
-
-  ●  Android Security Architecture
-
-  ●  Android Permission Model
-
-  ●  Application Sandboxing
-
-  ●  Setting up Mobile Pentest Environment
-
-  ●  Android Application Architecture
-
-  ●  Reverse Engineering
-
-  ●  Bypassing Android Permissions
-
-  ●  Dynamic and static analysis of the application
-
-  ●  Insecure Data Storage
-
-  ●  Insecure Communication
-
-  ●  Insufficient Cryptography
-
-  ●  Insecure Authentication
-
-  ●  Poor Code Quality
+* Introduction to Android 
+* Android Security Architecture 
+* Android Permission Model 
+* Application Sandboxing 
+* Setting up Mobile Pentest Environment 
+* Android Application Architecture 
+* Reverse Engineering 
+* Bypassing Android Permissions 
+* Dynamic and static analysis of the application 
+* Insecure Data Storage 
+* Insecure Communication 
+* Insufficient Cryptography 
+* Insecure Authentication 
+* Poor Code Quality
 
 **About Trainers**
 
@@ -87,28 +74,28 @@ This hands-on session will discuss recent case studies of critical findings in i
 
 **Training Contents \(not limited to\)**
 
-1. Introduction to iOS App Security
-2. iOS Bug Bounty Case Studies
-3. iOS Pentesting Lab Setup
-4. Approach for Objective C and Swift App Pentesting
-5. Reverse Engineering and Binary Analysis
-6. Exploiting iOS Local Data Storage
-7. Exploiting Broken Cryptography
-8. Exploiting Cloud Misconfigurations
-9. Runtime Analysis of iOS Apps
-10. Frida for iOS Pentesting
-11. Analyzing iOS Network Traffic
-12. iOS Secure Coding
-13. iOS CTF
+* Introduction to iOS App Security
+* iOS Bug Bounty Case Studies
+* iOS Pentesting Lab Setup
+* Approach for Objective C and Swift App Pentesting
+* Reverse Engineering and Binary Analysis
+* Exploiting iOS Local Data Storage
+* Exploiting Broken Cryptography
+* Exploiting Cloud Misconfigurations
+* Runtime Analysis of iOS Apps
+* Frida for iOS Pentesting
+* Analyzing iOS Network Traffic
+* iOS Secure Coding
+* iOS CTF
 
 **WHO SHOULD ATTEND?**
 
-1. Security Professionals
-2. Mobile Application Pentesters
-3. Bug Bounty Hunters
-4. iOS Application Developers
-5. Security Architects
-6. People interested to start into Mobile security
+* Security Professionals
+* Mobile Application Pentesters
+* Bug Bounty Hunters
+* iOS Application Developers
+* Security Architects
+* People interested to start into Mobile security
 
 **Key Takeaways**
 
