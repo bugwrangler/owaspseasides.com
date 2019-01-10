@@ -1,5 +1,7 @@
 ---
-description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
+description: >-
+  Full Day Workshop - 27th February 2019 (9AM - 6PM) - Registration is closed
+  for the workshop
 ---
 
 # Bug Hunter's Methodology
