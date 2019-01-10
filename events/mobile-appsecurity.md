@@ -59,6 +59,8 @@ Android Application Penetration Testing Training is intended for students/profes
 
 **Trainer 2: Asha Muniyappa** is a Mobile application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. Her expertise is in Application Security, with key research areas of interest including Mobile Apps, Hacking. She is passionate to learn new techniques for attacking mobile apps and have been researching on performing attack simulations on the apps to determine and exploit security flaws.
 
+![](../.gitbook/assets/whatsapp-image-2019-01-10-at-16.03.33.jpeg)
+
 ## Second Half  - 27th February 2019 \(2PM - 6PM\)
 
 **Modern iOS App Pentesting And Security for Fun and Profit**
