@@ -1,3 +1,7 @@
+---
+description: 27th February 2019 (4PM - 6PM)
+---
+
 # CTF Bootcamp/Training
 
 **What’s the Plan?** 
