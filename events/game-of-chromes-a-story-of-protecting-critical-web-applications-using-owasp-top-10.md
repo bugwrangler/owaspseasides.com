@@ -2,7 +2,7 @@
 description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
 ---
 
-# Game of Chromes - A story of protecting critical web applications using OWASP Top 10
+# A story of protecting critical web applications using OWASP Top 10
 
 **Abstract** 
 
