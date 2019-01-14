@@ -35,8 +35,7 @@ Phase – III: Case Study
 
 * Case Study 1: Network traffic classification using ML
 * Case Study 2: Malicious URL detection using ML
-* Case Study 3: Detecting password strength using
-* Case Study 4: ML based Web Firewall
+* Case Study 3: Detecting password strength using ML based Web Firewall
 
 **Prerequisites**
 

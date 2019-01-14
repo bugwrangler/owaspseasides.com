@@ -14,7 +14,7 @@ In this completely hands-on workshop, you would get to understand the techniques
 
 **Upon Completion of this Workshop, attendees will know:** 
 
-* Scope a security review and priorities the work. 
+* Scope a security review and prioritise the work. 
 * Understand the manual and automated tools and techniques available and when to apply them.
 * Understanding of DevSecOps including Agile Framework. 
 * Gain confidence in customising your Web Application Security Testing approach to suit application-specific pen-testing needs, by gaining clarity on the powerful features provided by the Burp Suite tool.
