@@ -18,6 +18,7 @@
 * [Our Team](owasp-seasides/organizer.md)
 * [Social Media](owasp-seasides/contact.md)
 * [Get in Touch](owasp-seasides/contact-1.md)
+* [CODE OF CONDUCT](owasp-seasides/code-of-conduct.md)
 
 ## Events
 
