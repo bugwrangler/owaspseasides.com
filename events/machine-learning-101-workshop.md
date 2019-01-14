@@ -1,5 +1,5 @@
 ---
-description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
+description: Full Day Workshop - 26th February 2019 (10AM - 6PM)
 ---
 
 # Machine learning 101 for Cyber Security

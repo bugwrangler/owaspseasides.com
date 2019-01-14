@@ -1,5 +1,5 @@
 ---
-description: Full Day Workshop - 28th February 2019 (9AM - 6PM)
+description: Full Day Workshop - 26th February 2019 (10AM - 6PM)
 ---
 
 # Learning Secure Development from Blockchain
