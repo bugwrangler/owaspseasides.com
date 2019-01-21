@@ -32,6 +32,7 @@
 * [Building your first AppSec pipeline with all bells and whistles](events/building-your-first-appsec-pipeline-with-all-bells-and-whistles.md)
 * [Reversing and Exploitation of Vehicle \(CAR Hacking\)](events/car-hacking-village.md)
 * [Soldering Village](events/soldering-village.md)
+* [Red Team Village](events/red-team-village.md)
 
 ## Evening Talks on 27th February, 2019
 
