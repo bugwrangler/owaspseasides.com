@@ -9,7 +9,7 @@
 
 * [Conference at a glance](schedule/workshops.md)
 * [Diversity Partner](schedule/wia-infosecgirls.md)
-* [Scholarship Opportunities](schedule/untitled.md)
+* [Scholarship Opportunities](schedule/scholarship-opportunities.md)
 
 ## OWASP Seasides
 
