@@ -6,8 +6,9 @@ description: 27th February 2019 (4PM - 6PM)
 
 **What’s the Plan?** 
 
-1. The workshop starts with the basic idea on what exactly is a CTF and why it should matter to you regardless of the background? 
-2. Then we start with basic introduction to the following categories with talk and doing up live challenges to learn some neat tricks along the way! 
+ Workshop starts with the basic idea on what exactly is a CTF and why it should matter to you regardless of the background? 
+
+1. Then we start with basic introduction to the following categories with talk and doing up live challenges to learn some neat tricks along the way! 
    1. Web : It’s the time we look beyond the old boring web application and introduce some fun tasks to this scenario, learn the fundamentals and different tricks like breaking OAuth, SSRF, Testing REST APIs and more. 
    2. Crypto : Time to break those obfuscated code, and understand what exactly RSA does and many other popular encryptions lack and the fun part exploit them LIVE! 
    3. Forensics : It’s your time to DFIR like professional learn all you need to know about images, process, handles, dll and injections! 
@@ -29,4 +30,8 @@ General idea about linux. And a knack of programming.
 **About CTF Team** 
 
 Al’Capwn is one of the finest CTF team in India, that has won numerous international and national events like CSAW, NASSCOM CTF, Global Security Challenge. DCG91135 is a community based in Dehradun working on the mission of Security For All and promoting \#girlswhohack
+
+{% embed url="https://docs.google.com/forms/d/1tM-Vq8hSRNoErS\_ljfPUudCA-e5UocRrkV8X2YzrX\_g/edit?ts=5c44b4fa" %}
+
+
 
