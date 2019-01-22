@@ -1,6 +1,6 @@
 # Scholarship
 
-OWASP Seasides team will be provided to students and professional who wish to attend seasides. 
+OWASP Seasides team will be providing scholarship to students and professional who wish to attend seasides. 
 
 Please fill the below form to get the scholarship.
 
