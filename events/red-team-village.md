@@ -1,3 +1,7 @@
+---
+description: '26th February, 2019'
+---
+
 # Red Team Village
 
 Red Team Village is a community driven combat readiness platform for Red teaming and full scope Cyber security assessments.This community is managed by a group of cyber security and red team tactics enthusiasts. A red teamer needs to be skilled in every aspect of offensive security. We can consider this as a platform to share tactics, techniques, and tools related to various domains of adversarial attack simulation.
@@ -35,4 +39,8 @@ There is a target company named Victim Corporation. Victim Corp has a wide list 
 ![](../.gitbook/assets/red_team_village.png)
 
 ![](../.gitbook/assets/red_team_village_2.png)
+
+{% embed url="https://docs.google.com/forms/d/1nvzOgip\_PWzn5kLXpXElB4T-uUFFnbNrr0TzgoTnSug/edit" %}
+
+
 
