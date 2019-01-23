@@ -1,6 +1,6 @@
 # Scholarship Opportunities
 
-OWASP Seasides team will be providing scholarship to students who wish to attend seasides. 
+OWASP Seasides team will be providing scholarship \(**shared accommodation and, train tickets**\) to students who wish to attend seasides. 
 
 Please fill the below form to get the scholarship.
 
