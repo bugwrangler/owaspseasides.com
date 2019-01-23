@@ -6,9 +6,11 @@ description: '26th February, 2019'
 
 Red Team Village is a community driven combat readiness platform for Red teaming and full scope Cyber security assessments.This community is managed by a group of cyber security and red team tactics enthusiasts. A red teamer needs to be skilled in every aspect of offensive security. We can consider this as a platform to share tactics, techniques, and tools related to various domains of adversarial attack simulation.
 
-We will be conducting workshops, talks, demonstrations, open discussions, Capture the flag challenges and other exercises.
+Agenda: 
 
-Rather than focusing on Jeopardy type CTF, all our challenges will be based on real time scenarios and infrastructure.The participants needs to red team the targets to get the flags.
+1. Sessions about Red Team tactics and tools
+
+2. CTF  - There will be CTF challenges and the winners can go home with cool prizes and goodies. 
 
 **The CTF challenges would be based on red teaming activities and attacks.**
 
@@ -36,9 +38,11 @@ There is a target company named Victim Corporation. Victim Corp has a wide list 
 * The final challenge would be, attacking a target monitored by Blue team/SOC and get the flags without getting caught in their Radar. 
 * Idea is to touch a little bit of everything. OSINT to Post exploitation techniques.
 
-![](../.gitbook/assets/red_team_village.png)
+**Abhijith B R** Working as a Sr. Security analyst at EY, 8 years of experience in the Cyber security industry, Cyber security researcher, blogger, maker and adventure motorcycle traveller. Mostly researching in intelligent penetration testing automation and red teaming tactics. Lead organizer of local DEF CON group \(DC0471\), manages Red team village community.[https://twitter.com/abhijithbr](https://twitter.com/abhijithbr)
 
-![](../.gitbook/assets/red_team_village_2.png)
+**Vishnu Prasad** Working at HackerOps as Sr. security specialist, has 7 years of experience in the Information security Industry.Organizer of DEF CON group - Trivandrum, and Red team village community. ****
+
+**Ranjith** **Menon** has more than 8 years of experience in infosec domain. He is an active player on Bug bounty programmes, specialised in Web app, mobile, cloud and a contributor to the security community and founder of h1hakz – an open platform for knowledge sharing through webcast series.[https://twitter.com/ranjith\_menon16](https://twitter.com/ranjith_menon16)
 
 {% embed url="https://docs.google.com/forms/d/1nvzOgip\_PWzn5kLXpXElB4T-uUFFnbNrr0TzgoTnSug/edit" %}
 
