@@ -10,5 +10,9 @@ The CMD+CTRL Cyber Range we will be using is called ShadowBank, a banking websit
 
 NOTE: **Just bring your computer and evil inner-doer and you are ready to roll!**
 
+{% embed url="https://docs.google.com/forms/d/1qhOfY4DoAFC9tOopc8eLmzFGyDWNSe\_gWmKaItAXLxY/edit" %}
+
+\*\*\*\*
+
 \*\*\*\*
 
