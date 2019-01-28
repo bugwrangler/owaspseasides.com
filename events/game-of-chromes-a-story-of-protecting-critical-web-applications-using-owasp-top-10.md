@@ -1,7 +1,3 @@
----
-description: Full Day Workshop - 27th February 2019 (9AM - 6PM)
----
-
 # A story of protecting critical web applications using OWASP Top 10
 
 **Abstract** 
