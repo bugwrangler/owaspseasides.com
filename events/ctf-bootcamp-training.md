@@ -23,10 +23,6 @@ Laptop, preferably running a Linux distro \(Kali Linux full boot or VirtualMachi
 
 General idea about linux. And a knack of programming. 
 
-**About CTF Team** 
-
-Al’Capwn is one of the finest CTF team in India, that has won numerous international and national events like CSAW, NASSCOM CTF, Global Security Challenge. DCG91135 is a community based in Dehradun working on the mission of Security For All and promoting \#girlswhohack
-
 {% embed url="https://docs.google.com/forms/d/1tM-Vq8hSRNoErS\_ljfPUudCA-e5UocRrkV8X2YzrX\_g/edit?ts=5c44b4fa" %}
 
 
