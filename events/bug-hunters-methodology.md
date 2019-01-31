@@ -58,7 +58,7 @@ Some topics will assume some knowledge of OWASP Top Ten type vulnerabilities.
 These trainings are 100% FREE to all OWASP Seasides attendees, first come first served basis only!
 
 **About the trainer**  
-**Jason Haddix** is the VP of Technical Operations at Bugcrowd. Jason trains and works with internal analysts to triage and validate hardcore vulnerabilities in mobile, web, and IoT applications/devices. He also works with Bugcrowd to improve the security industries relations with the researchers. Jason’s interests and areas of expertise include mobile penetration testing, black box web application auditing, network/infrastructural security assessments, wireless network assessment, binary reverse engineering, and static analysis.
+**Jason Haddix** is the VP of Researcher Growth at Bugcrowd. Jason trains and works with internal analysts to triage and validate hardcore vulnerabilities in mobile, web, and IoT applications/devices. He also works with Bugcrowd to improve the security industries relations with the researchers. Jason’s interests and areas of expertise include mobile penetration testing, black box web application auditing, network/infrastructural security assessments, wireless network assessment, binary reverse engineering, and static analysis.
 
 {% embed url="https://docs.google.com/forms/d/1a669t-Be-PUoIBhSZjCWKtIsenkJ3IcaqbGO6QqBqAo/viewform?edit\_requested=true" %}
 
