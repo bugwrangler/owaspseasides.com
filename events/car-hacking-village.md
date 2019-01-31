@@ -42,6 +42,8 @@ Today all vehicles are connected through V2X technologies. All manufacturers are
 
 **Arun Mane**
 
+Arun is a Hardware, IOT and ICS Security Researcher. His areas of interest are Hardware Security, SCADA,Automotive security, Fault Injection, RF protocols and Firmware Reverse Engineering. He also has experience in performing Security Audits for both Government and private clients. He has presented a talk at the nullcon 2016,2017,2018 Goa, GNUnify 2017, Defcamp 2017, 2018 Romania, BsidesDelhi 2017, c0c0n x 2017, EFY 2018, x33fcon2018, BlackHat USA 2018, Defcon USA 2018 Also Trainer for Practical Industrial Control Systems \(ICS\) hacking training, delivered in x33fcon2018, HIP 2018 and also delivered training for IoT hacking in HITB 2017, HIP 2017, BlackHat Asia 2018 and private clients in London, Australia, Sweden, Netherlands etc. He is an active member of null open community.   
+
 \*Note: Registration details will be shared with Trainers and Sponsors
 
 **It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
