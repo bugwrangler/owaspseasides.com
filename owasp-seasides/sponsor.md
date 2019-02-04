@@ -1,5 +1,24 @@
 # Sponsors
 
+**Platinum Sponsor**
+
+* **Bug Crowd**
+
+**Gold Sponsor**
+
+* **Anlyz**
+* **Security Innovation**
+* **Bug Bounty World + Peritus** 
+
+**Bronze Sponsor**
+
+* **InTouch World**
+* **we45**
+
+\*\*\*\*
+
+\*\*\*\*
+
 **Platinum Sponsors**
 
 \*\*\*\*![](../.gitbook/assets/bugcrowd.png)\*\*\*\*
