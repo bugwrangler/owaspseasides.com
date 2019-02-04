@@ -1,7 +1,3 @@
----
-description: 27th February 2019 (9am-3.30PM)
----
-
 # Women Only - Web Application Security \(Free\)
 
 **Abstract**
