@@ -4,7 +4,7 @@
 
 Let's Attack the Bitcoin's Blockchain implementation and learn how worlds most valued financial network is also worlds most secure given the fact its completely open and autonomous.
 
-In this workshop we will do threat modelling of a Bitcoin's blockchain implementation and study its layer by layer design to thwart the listed threats.We enumerate and understand each single crypto constructs used in every layer and how it is secure now and also in the wake of Quantum Computing realisation in near future.
+In this Village, we will do threat modelling of a Bitcoin's blockchain implementation and study its layer by layer design to thwart the listed threats.We enumerate and understand each single crypto constructs used in every layer and how it is secure now and also in the wake of Quantum Computing realisation in near future.
 
 **Overview:**
 
