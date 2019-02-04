@@ -3,7 +3,7 @@
 **Gold Sponsors**
 
 [![](../.gitbook/assets/bugcrowd.png)](https://www.bugcrowd.com)
-[![](../.gitbook/assets/bugcrowd.png)](https://www.anlyz.co)
+[![](../.gitbook/assets/logo.png)](https://www.anlyz.co)
 [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com)
 
 **Bronze Sponsors**
