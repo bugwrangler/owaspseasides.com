@@ -23,7 +23,7 @@
 
 ## Events
 
-* [Learning Secure Development from Blockchain](events/learning-secure-development-from-blockchained.md)
+* [Blockchain Village](events/learning-secure-development-from-blockchained.md)
 * [Machine learning 101 for Cyber Security](events/machine-learning-101-workshop.md)
 * [Mobile App Security](events/mobile-appsecurity.md)
 * [Women Only - Web Application Security \(Free\)](events/penetration-testing-workshop.md)
