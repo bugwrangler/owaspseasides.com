@@ -2,7 +2,7 @@
 
 **Gold Sponsors**
 
-![](../.gitbook/assets/bugcrowd.png)
+![](../.gitbook/assets/bugcrowd.png)(https://www.bugcrowd.com)
 
 ![](../.gitbook/assets/logo.png)
 
