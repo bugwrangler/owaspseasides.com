@@ -7,7 +7,6 @@
 [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com)
 [![](../.gitbook/assets/Combined gold sponsor.png)](http://www.peritusinfosec.com)
 
-
 **Bronze Sponsors**
 
 [![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
