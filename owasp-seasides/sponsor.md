@@ -7,5 +7,6 @@
 [![](../.gitbook/assets/bugcrowd.png)](https://www.securityinnovation.com)
 
 **Bronze Sponsors**
+
 [![](../.gitbook/assets/bugcrowd.png)](http://www.intouchworld.net)
 
