@@ -8,5 +8,5 @@
 
 **Bronze Sponsors**
 
-[![](../.gitbook/assets/bugcrowd.png)](http://www.intouchworld.net)
+[![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
 
