@@ -4,19 +4,19 @@ _**Platinum Sponsors**_
 
 ![](../.gitbook/assets/bugcrowd.png)
 
-**Gold Sponsors**
+_**Gold Sponsors**_
 
-[![](../.gitbook/assets/logo.png)](https://www.anlyz.co) [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com)
+\_\_[![](../.gitbook/assets/logo.png)](https://www.anlyz.co) [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com)
 
-**Combined Gold Sponsor** \(**Bug Bounty World +** [**Peritus**](http://www.peritusinfosec.com/) **+** [**Secmasters**](https://www.secmasters.com/)**\)**
+_**Combined Gold Sponsor** \(**Bug Bounty World +**_ [_**Peritus**_](http://www.peritusinfosec.com/) _**+**_ [_**Secmasters**_](https://www.secmasters.com/)_**\)**_
 
 ![](../.gitbook/assets/combined-gold-sponsor.png)
 
-**Bronze Sponsors**
+_**Bronze Sponsors**_
 
-[![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
+\_\_[![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
 
-**Special Supporters**
+_**Special Supporters**_
 
-[![](../.gitbook/assets/enciphers_logo%20%281%29.png)](https://enciphers.com/)
+\_\_[![](../.gitbook/assets/enciphers_logo%20%281%29.png)](https://enciphers.com/)
 
