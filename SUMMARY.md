@@ -7,7 +7,7 @@
 
 ## Schedule
 
-* [Conference at a glance](schedule/workshops.md)
+* [Conference at a glance \(Schedule\)](schedule/workshops.md)
 * [Diversity Partner](schedule/wia-infosecgirls.md)
 * [Scholarship Opportunities](schedule/scholarship-opportunities.md)
 

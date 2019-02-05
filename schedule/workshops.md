@@ -4,7 +4,7 @@ description: >-
   day as all trainings will run in Parallel.
 ---
 
-# Conference at a glance
+# Conference at a glance \(Schedule\)
 
 ## **Workshops \(9:00 AM - 6:00 PM, IST\)** 
 
