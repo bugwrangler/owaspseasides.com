@@ -8,7 +8,7 @@
 
 * **Anlyz**
 * **Security Innovation**
-* **Bug Bounty World + Peritus + Secmasters** 
+* **Bug Bounty World +** [**Peritus**](http://www.peritusinfosec.com/) **+** [**Secmasters**](https://www.secmasters.com/) 
 
 **Bronze Sponsor**
 
@@ -27,7 +27,7 @@ _**Platinum Sponsors**_
 
 **Gold Sponsors**
 
- [![](../.gitbook/assets/logo.png)](https://www.anlyz.co) [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com) [![](../.gitbook/assets/combined-gold-sponsor.png)](http://www.peritusinfosec.com)
+[![](../.gitbook/assets/logo.png)](https://www.anlyz.co) [![](../.gitbook/assets/silogostacked.png)](https://www.securityinnovation.com) [![](../.gitbook/assets/combined-gold-sponsor.png)](http://www.peritusinfosec.com)
 
 **Bronze Sponsors**
 
