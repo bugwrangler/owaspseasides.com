@@ -35,5 +35,5 @@ _**Platinum Sponsors**_
 
 **Special Supporters**
 
-![](../.gitbook/assets/enciphers_logo%20%281%29.png)
+[![](../.gitbook/assets/enciphers_logo%20%281%29.png)](https://enciphers.com/)
 
