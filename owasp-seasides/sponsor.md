@@ -15,11 +15,11 @@
 * **InTouch World**
 * **we45**
 
-\*\*\*\*
+**Special Supporters**
 
-\*\*\*\*
+* [**Enciphers**](https://enciphers.com/)\*\*\*\*
 
-**Platinum Sponsors**
+_**Platinum Sponsors**_
 
 \*\*\*\*![](../.gitbook/assets/bugcrowd.png)\*\*\*\*
 
@@ -32,4 +32,8 @@
 **Bronze Sponsors**
 
 [![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
+
+**Special Supporters**
+
+![](../.gitbook/assets/enciphers_logo%20%281%29.png)
 
