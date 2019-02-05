@@ -8,7 +8,7 @@
 
 * **Anlyz**
 * **Security Innovation**
-* **Bug Bounty World + Peritus** 
+* **Bug Bounty World + Peritus + Secmasters** 
 
 **Bronze Sponsor**
 
