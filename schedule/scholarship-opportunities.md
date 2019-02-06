@@ -2,7 +2,12 @@
 
 OWASP Seasides team will be providing scholarship \(**shared accommodation and, train tickets**\) to students who wish to attend seasides. 
 
-Big Thanks to Xiarch and Utsav for the scholarship support!
+Big Thanks to the supporters for the scholarship support!
+
+* Xiarch
+* Dinesh Bareja \([https://twitter.com/bizsprite](https://twitter.com/bizsprite) \)
+* Arman Pathan \([https://twitter.com/armaancrockroax](https://twitter.com/armaancrockroax) \)
+* Jinen Patel \([https://twitter.com/j4jinen](https://twitter.com/j4jinen) \)
 
 ![](../.gitbook/assets/ziarch_sponsor.png)
 
