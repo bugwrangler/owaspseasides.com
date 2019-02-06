@@ -2,7 +2,7 @@
 
 _**Platinum Sponsors**_
 
-![](../.gitbook/assets/bugcrowd.png)
+[![](../.gitbook/assets/bugcrowd.png)](https://www.bugcrowd.com/)
 
 _**Gold Sponsors**_
 
