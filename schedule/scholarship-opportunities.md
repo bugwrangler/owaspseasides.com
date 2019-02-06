@@ -8,11 +8,11 @@ Big Thanks to Xiarch and Utsav for the scholarship support!
 
 Sponsorship has been awarded to the below mentioned students/ individuals.
 
-* Sparsh Kul
+* Sparsh Kulshreshtha
 * Saraswati Maddala
 * Ashish huria
 * Eldho George
-* PARESH MISHRA
+* Paresh Mishra
 * Manju Chufal
 * Kartheek Lade
 * Rebecca Sunny
