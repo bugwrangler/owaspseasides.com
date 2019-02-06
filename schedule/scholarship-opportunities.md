@@ -5,11 +5,12 @@ OWASP Seasides team will be providing scholarship \(**shared accommodation and, 
 Big Thanks to the supporters for the scholarship support!
 
 * Xiarch
+
+![](../.gitbook/assets/ziarch_sponsor.png)
+
 * Dinesh Bareja \([https://twitter.com/bizsprite](https://twitter.com/bizsprite) \)
 * Arman Pathan \([https://twitter.com/armaancrockroax](https://twitter.com/armaancrockroax) \)
 * Jinen Patel \([https://twitter.com/j4jinen](https://twitter.com/j4jinen) \)
-
-![](../.gitbook/assets/ziarch_sponsor.png)
 
 Sponsorship has been awarded to the below mentioned students/ individuals.
 
