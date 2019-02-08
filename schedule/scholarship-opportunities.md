@@ -21,9 +21,7 @@ Sponsorship has been awarded to the below mentioned students/ individuals.
 * Paresh Mishra
 * Manju Chufal
 * Kartheek Lade
-* Rebecca Sunny
 * Vishnu K Murali
-* Vanshika
 
 **Note:-** Please do show us a valid ID card at the event to confirm your identity.
 
