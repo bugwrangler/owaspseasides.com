@@ -43,5 +43,4 @@
 ## Evening Talks on 28th February, 2019
 
 * [28th February](evening-talks-on-28th-february-2019/coming-soon.md)
-* [Untitled](evening-talks-on-28th-february-2019/untitled.md)
 

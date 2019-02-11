@@ -10,10 +10,40 @@ description: 'Timings : 7 PM - 10 PM IST'
 
  **Evening Talks**
 
-| Speaker Name | **Talk Title** |
-| :--- | :--- |
-| Shrutirupa Banerjiee | Security with Smart Contracts |
-| Saumya Vishnoi | The other side of bug bounty program |
-| Armaan Pathan | How I brought my car in 4 days of bug hunting |
-| Tamaghna Basu | Detecting and Fighting identity frauds using Behavioural Biometrics |
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Speaker Name</th>
+      <th style="text-align:left"><b>Talk Title</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Shrutirupa Banerjiee</td>
+      <td style="text-align:left">Security with Smart Contracts</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Saumya Vishnoi</td>
+      <td style="text-align:left">The other side of bug bounty program</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Armaan Pathan</td>
+      <td style="text-align:left">How I brought my car in 4 days of bug hunting</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nitin Lakshmanan</td>
+      <td style="text-align:left">
+        <p>Attacking your in-ear fitness coach: Next generation exploits for</p>
+        <p>consumer IoT, and mitigation approaches</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sunil kumar S</td>
+      <td style="text-align:left">
+        <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
+        <p>by attacking Wireless Sensor Networks</p>
+      </td>
+    </tr>
+  </tbody>
+</table>

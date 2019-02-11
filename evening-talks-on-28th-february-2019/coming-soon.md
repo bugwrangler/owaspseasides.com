@@ -19,18 +19,8 @@ description: 'Timings : 7 PM - 10 PM IST'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Nitin Lakshmanan</td>
-      <td style="text-align:left">
-        <p>Attacking your in-ear fitness coach: Next generation exploits for</p>
-        <p>consumer IoT, and mitigation approaches</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Sunil kumar S</td>
-      <td style="text-align:left">
-        <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
-        <p>by attacking Wireless Sensor Networks</p>
-      </td>
+      <td style="text-align:left">Tamaghna Basu</td>
+      <td style="text-align:left">Detecting and Fighting identity frauds using Behavioural Biometrics</td>
     </tr>
     <tr>
       <td style="text-align:left">Vanshit Malhotra</td>
@@ -47,6 +37,13 @@ description: 'Timings : 7 PM - 10 PM IST'
     <tr>
       <td style="text-align:left">Praveen K</td>
       <td style="text-align:left">Threat Playbook</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Avinash Jain</td>
+      <td style="text-align:left">
+        <p>How I helped more than 80 top Indian companies to be secure</p>
+        <p>by reporting critical vulnerabilities.</p>
+      </td>
     </tr>
   </tbody>
 </table>
