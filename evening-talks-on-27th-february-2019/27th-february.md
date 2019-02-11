@@ -46,8 +46,8 @@ description: 'Timings : 7 PM - 10 PM IST'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Glenn ten Cate</td>
-      <td style="text-align:left">Building your AppSec Pipeline with all whistles and bells!</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
