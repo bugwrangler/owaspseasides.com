@@ -36,11 +36,10 @@
 * [Soldering Village](events/soldering-village.md)
 * [Red Team Village](events/red-team-village.md)
 
-## Evening Talks on 27th February, 2019
+## Evening Talks
 
 * [27th February](evening-talks-on-27th-february-2019/coming-soon.md)
+* [28th February](evening-talks-on-27th-february-2019/coming-soon-1.md)
 
 ## Evening Talks on 28th February, 2019
-
-* [28th February](evening-talks-on-28th-february-2019/coming-soon.md)
 
