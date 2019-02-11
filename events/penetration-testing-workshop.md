@@ -1,8 +1,4 @@
----
-description: 'Full Day - 28th February, 2019 (9AM- 6PM)'
----
-
-# Women Only - Web Application Security Workshop\(Free\)
+# Women Only - Web Application Security \(Free\)
 
 **Abstract**
 
@@ -12,7 +8,7 @@ In this completely hands-on workshop, you would get to understand the techniques
 
 **Upon Completion of this Workshop, attendees will know:** 
 
-* Scope a security review and priorities the work. 
+* Scope a security review and prioritise the work. 
 * Understand the manual and automated tools and techniques available and when to apply them.
 * Understanding of DevSecOps including Agile Framework. 
 * Gain confidence in customising your Web Application Security Testing approach to suit application-specific pen-testing needs, by gaining clarity on the powerful features provided by the Burp Suite tool.
@@ -33,6 +29,8 @@ This is an introductory Workshop for web application developers, students, inclu
 
 * \*\*\*\*[Vandana Verma](https://twitter.com/infosecVandana)
 * [Geeta Handa](https://twitter.com/handa_geeta)
+
+\*Note: Registration details will be shared with Trainers and Sponsors
 
 **Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register \(Only Women Hackers\).**
 

@@ -1,10 +1,7 @@
----
-description: OWASP Seasides Tools Demo 2019 - Call for Tools (CFT)
----
-
 # Call for Tools \(CFT\)
 
-**OWASP Seasides Tools Demo 2019 aims to provide a platform for security researchers, developers and hackers to showcase their open-source projects.**  
+**OWASP Seasides Tools Demo 2019 aims to provide a platform for security researchers, developers and hackers to showcase their open-source projects.**
+
 Venture down to the beach shack in the evening, for an open air environment where you can freely exchange ideas and receive direct feedback from attendees.
 
 **CFT closes on 31st January 2019. Selected tools will be announced on 10th February 2019.**
