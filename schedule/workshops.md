@@ -21,8 +21,8 @@ description: >-
 
 ## **Evening Talks** 
 
-* \*\*\*\*[**27th February**](https://www.owaspseasides.com/evening-talks-on-27th-february-2019/27th-february)
-* \*\*\*\*[**28th February**](https://www.owaspseasides.com/evening-talks-on-27th-february-2019/28th-february)
+* \*\*\*\*[**27th February**](https://www.owaspseasides.com/evening-talks/27th-february)
+* \*\*\*\*[**28th February**](https://www.owaspseasides.com/evening-talks/28th-february)
 
 ## **Tool Showcase \(Coming Soon\)**
 
