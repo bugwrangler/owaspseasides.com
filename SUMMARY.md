@@ -38,6 +38,6 @@
 
 ## Evening Talks
 
-* [27th February](evening-talks-on-27th-february-2019/coming-soon.md)
 * [28th February](evening-talks-on-27th-february-2019/coming-soon-1.md)
+* [27th February](evening-talks-on-27th-february-2019/27th-february.md)
 
