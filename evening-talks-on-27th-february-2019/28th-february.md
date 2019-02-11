@@ -31,10 +31,6 @@ description: 'Timings : 7 PM - 10 PM IST'
       <td style="text-align:left">Tempsmitter: Data Exfiltration Using CPU Temperature</td>
     </tr>
     <tr>
-      <td style="text-align:left">Glenn ten Cate</td>
-      <td style="text-align:left">Building your AppSec Pipeline with all whistles and bells!</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Praveen K</td>
       <td style="text-align:left">Threat Playbook</td>
     </tr>

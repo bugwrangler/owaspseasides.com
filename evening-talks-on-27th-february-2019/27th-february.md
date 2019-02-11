@@ -45,5 +45,9 @@ description: 'Timings : 7 PM - 10 PM IST'
         <p>by attacking Wireless Sensor Networks</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Glenn ten Cate</td>
+      <td style="text-align:left">Building your AppSec Pipeline with all whistles and bells!</td>
+    </tr>
   </tbody>
 </table>
