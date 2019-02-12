@@ -39,7 +39,7 @@ description: 'Timings : 7 PM - 10 PM IST'
       <td style="text-align:left">Threat Playbook</td>
     </tr>
     <tr>
-      <td style="text-align:left">Yassine</td>
+      <td style="text-align:left">Yassine Aboukir</td>
       <td style="text-align:left">
         <p>Leveraging certificate transparency to automate monitoring</p>
         <p>of new subdomains for fun and profit - Sublert tool release.</p>
