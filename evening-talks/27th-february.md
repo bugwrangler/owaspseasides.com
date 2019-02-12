@@ -39,15 +39,20 @@ description: 'Timings : 7 PM - 10 PM IST'
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Chloé Messdaghi</td>
+      <td style="text-align:left">
+        <p>Fixing the Internet's Auto-Immune Problem: Bilateral Safe Harbor</p>
+        <p>for Good-Faith Hackers (20-30 minute window)
+          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Sunil kumar S</td>
       <td style="text-align:left">
         <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
         <p>by attacking Wireless Sensor Networks</p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
