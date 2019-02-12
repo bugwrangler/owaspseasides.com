@@ -42,7 +42,7 @@ description: 'Timings : 7 PM - 10 PM IST'
       <td style="text-align:left">Chloé Messdaghi</td>
       <td style="text-align:left">
         <p>Fixing the Internet's Auto-Immune Problem: Bilateral Safe Harbor</p>
-        <p>for Good-Faith Hackers (20-30 minute window)
+        <p>for Good-Faith Hackers
           <br />
         </p>
       </td>
