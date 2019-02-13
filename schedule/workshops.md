@@ -24,7 +24,25 @@ description: >-
 * \*\*\*\*[**27th February**](https://www.owaspseasides.com/evening-talks/27th-february)
 * \*\*\*\*[**28th February**](https://www.owaspseasides.com/evening-talks/28th-february)
 
-## **Tool Showcase \(Coming Soon\)**
+## **Tool Showcase **
+
+### Day 1: 27 Feb 2019
+| **Time Slot** | **Tool Title** | **Presentor**|
+| :--- | :--- | :--- |
+| 5:00 - 5:15 | Intro and Setup | 
+| 5:20 - 5:35 | [DVFaaS](https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service) | Sagar Ujalambkar |
+| 5:40 - 5:55 | [OWASP -SKF](https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework) | Glenn ten cate & Riccardo ten Cate | 
+| 6:00 - 6:15 | [Autorecon](https://github.com/agrawalsmart7/AutoRecon) | Utkarsh Agrawal |
+| | | |
+
+### Day 2: 28 Feb 2019
+| **Time Slot** | **Tool Title** | **Presentor**|
+| :--- | :--- | :--- |
+| 5:00 - 5:15 | [Adhrit](https://github.com/abhi-r3v0/Adhrit) | Abhishek J M |
+| 5:20 - 5:35 | [eth_KeyFun](https://github.com/Sector443/eth_keyfun) | Chirag Jariwala | 
+| 5:40 - 5:55 | Closing |
+| | | |
+
 
 
 
