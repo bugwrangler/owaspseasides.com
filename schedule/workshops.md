@@ -26,11 +26,9 @@ description: >-
 
 ## **Tool Showcase** 
 
-\*\*\*\*
+#### Day 1: 27 Feb 2019
 
-### Day 1: 27 Feb 2019
-
-### [Day 2: 28 Feb 2019](https://www.owaspseasides.com/tools-showcase/day-2-28-feb-2019)
+#### [Day 2: 28 Feb 2019](https://www.owaspseasides.com/tools-showcase/day-2-28-feb-2019)
 
 \*\*\*\*
 
