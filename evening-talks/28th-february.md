@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Glenn ten Cate</td>
-      <td style="text-align:left">Building your AppSec Pipeline with all whistles and bells!</td>
+      <td style="text-align:left">Making the web secure by design</td>
     </tr>
     <tr>
       <td style="text-align:left">Vanshit Malhotra</td>
