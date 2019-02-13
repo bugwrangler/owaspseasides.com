@@ -19,16 +19,16 @@ description: >-
 
 **NOTE\*** Workshops are 100% FREE to all OWASP Seasides attendees, first come first served basis only!
 
-## **Evening Talks**
-
-* \*\*\*\*[**27th February**](https://www.owaspseasides.com/evening-talks/27th-february)
-* \*\*\*\*[**28th February**](https://www.owaspseasides.com/evening-talks/28th-february)
-
 ## **Tool Showcase** 
 
-#### Day 1: 27 Feb 2019
+#### [Day 1: 27 Feb 2019](https://www.owaspseasides.com/tools-showcase/day-1-27-feb-2019)
 
 #### [Day 2: 28 Feb 2019](https://www.owaspseasides.com/tools-showcase/day-2-28-feb-2019)
 
 \*\*\*\*
+
+## **Evening Talks**
+
+* \*\*\*\*[**27th February**](https://www.owaspseasides.com/evening-talks/27th-february)
+* \*\*\*\*[**28th February**](https://www.owaspseasides.com/evening-talks/28th-february)
 
