@@ -31,8 +31,11 @@
       <td style="text-align:left">Tempsmitter: Data Exfiltration Using CPU Temperature</td>
     </tr>
     <tr>
-      <td style="text-align:left">Praveen K</td>
-      <td style="text-align:left">Threat Playbook</td>
+      <td style="text-align:left">Sunil kumar S</td>
+      <td style="text-align:left">
+        <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
+        <p>by attacking Wireless Sensor Networks</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Yassine Aboukir</td>
