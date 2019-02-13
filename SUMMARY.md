@@ -36,6 +36,11 @@
 * [Soldering Village](events/soldering-village.md)
 * [Red Team Village](events/red-team-village.md)
 
+## Tools Showcase
+
+* [Day 1: 27 Feb 2019](tools-showcase/day-1-27-feb-2019.md)
+* [Day 2: 28 Feb 2019](tools-showcase/day-2-28-feb-2019.md)
+
 ## EVENING TALKS
 
 * [27th February](evening-talks/27th-february.md)

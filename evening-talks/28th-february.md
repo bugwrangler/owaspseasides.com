@@ -1,7 +1,3 @@
----
-description: 'Timings : 7 PM - 10 PM IST'
----
-
 # 28th February
 
 **Panel Discussion**
