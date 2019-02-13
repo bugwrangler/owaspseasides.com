@@ -1,4 +1,4 @@
-# Women Only - Web Application Security \(Free\)
+# Women Only - Web Application Security
 
 **Abstract**
 
@@ -29,6 +29,11 @@ This is an introductory Workshop for web application developers, students, inclu
 
 * \*\*\*\*[Vandana Verma](https://twitter.com/infosecVandana)
 * [Geeta Handa](https://twitter.com/handa_geeta)
+
+**Co-Trainers:** 
+
+* Namrata Mallick
+* Sree Lakshmi
 
 \*Note: Registration details will be shared with Trainers and Sponsors
 

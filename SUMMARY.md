@@ -26,7 +26,7 @@
 * [Blockchain Village](events/learning-secure-development-from-blockchained.md)
 * [Machine learning 101 for Cyber Security](events/machine-learning-101-workshop.md)
 * [Mobile App Security](events/mobile-appsecurity.md)
-* [Women Only - Web Application Security \(Free\)](events/penetration-testing-workshop.md)
+* [Women Only - Web Application Security](events/penetration-testing-workshop.md)
 * [CMD+CTRL Code/Web App Review Challenge](events/cmd+ctrl-code-web-app-review-challenge.md)
 * [CTF Bootcamp/Training](events/ctf-bootcamp-training.md)
 * [A story of protecting critical web applications using OWASP Top 10](events/game-of-chromes-a-story-of-protecting-critical-web-applications-using-owasp-top-10.md)
