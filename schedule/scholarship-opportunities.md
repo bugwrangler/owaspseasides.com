@@ -16,12 +16,14 @@ Sponsorship has been awarded to the below mentioned students/ individuals.
 
 * Sparsh Kulshreshtha
 * Saraswati Maddala
-* Ashish huria
+* Ashish Huria
 * Eldho George
 * Paresh Mishra
 * Manju Chufal
 * Kartheek Lade
 * Vishnu K Murali
+* Nimisha Dughyala
+* Debolina Basu
 
 **Note:-** Please do show us a valid ID card at the event to confirm your identity.
 

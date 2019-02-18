@@ -1,7 +1,3 @@
----
-description: 'Timings : 7 PM - 10 PM IST'
----
-
 # 27th February
 
 **Panel Discussion**
@@ -39,15 +35,17 @@ description: 'Timings : 7 PM - 10 PM IST'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Sunil kumar S</td>
+      <td style="text-align:left">Chloé Messdaghi</td>
       <td style="text-align:left">
-        <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
-        <p>by attacking Wireless Sensor Networks</p>
+        <p>Fixing the Internet's Auto-Immune Problem: Bilateral Safe Harbor</p>
+        <p>for Good-Faith Hackers
+          <br />
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Praveen K</td>
+      <td style="text-align:left">Threat Playbook</td>
     </tr>
   </tbody>
 </table>

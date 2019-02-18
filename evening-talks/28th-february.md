@@ -1,7 +1,3 @@
----
-description: 'Timings : 7 PM - 10 PM IST'
----
-
 # 28th February
 
 **Panel Discussion**
@@ -24,7 +20,7 @@ description: 'Timings : 7 PM - 10 PM IST'
     </tr>
     <tr>
       <td style="text-align:left">Glenn ten Cate</td>
-      <td style="text-align:left">Building your AppSec Pipeline with all whistles and bells!</td>
+      <td style="text-align:left">Making the web secure by design</td>
     </tr>
     <tr>
       <td style="text-align:left">Vanshit Malhotra</td>
@@ -35,11 +31,14 @@ description: 'Timings : 7 PM - 10 PM IST'
       <td style="text-align:left">Tempsmitter: Data Exfiltration Using CPU Temperature</td>
     </tr>
     <tr>
-      <td style="text-align:left">Praveen K</td>
-      <td style="text-align:left">Threat Playbook</td>
+      <td style="text-align:left">Sunil kumar S</td>
+      <td style="text-align:left">
+        <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
+        <p>by attacking Wireless Sensor Networks</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left">Yassine</td>
+      <td style="text-align:left">Yassine Aboukir</td>
       <td style="text-align:left">
         <p>Leveraging certificate transparency to automate monitoring</p>
         <p>of new subdomains for fun and profit - Sublert tool release.</p>
@@ -47,10 +46,7 @@ description: 'Timings : 7 PM - 10 PM IST'
     </tr>
     <tr>
       <td style="text-align:left">Avinash Jain</td>
-      <td style="text-align:left">
-        <p>How I helped more than 80 top Indian companies to be secure</p>
-        <p>by reporting critical vulnerabilities.</p>
-      </td>
+      <td style="text-align:left">Bringing Left Shift Security change in India E-market #BugBounty</td>
     </tr>
   </tbody>
 </table>

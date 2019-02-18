@@ -12,7 +12,7 @@ The soldering village will consist of multiple soldering stations. All attendees
 
 \*Note: Registration details will be shared with Trainers and Sponsors
 
-**It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
+**The registration is closed. However, all the events and workshops are on first come first serve basis. Please reach the venue early to grab your spot.**
 
 {% embed url="https://goo.gl/forms/yKJEw2WRZL1ZNXw62" %}
 

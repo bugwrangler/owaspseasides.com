@@ -24,7 +24,7 @@ Riccardo also has expertise on implementing security test automation in CI/CD pi
 
 \*Note: Registration details will be shared with Trainers and Sponsors
 
-**It's mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register.**
+**The registration is closed. However, all the events and workshops are on first come first serve basis. Please reach the venue early to grab your spot.**
 
 {% embed url="https://docs.google.com/forms/d/1ebqWzu0mU3d\_BGf4sQ\_rGKzMcIUpoLjYq0enRkYmngY/" %}
 
