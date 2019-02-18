@@ -37,7 +37,7 @@ This is an introductory Workshop for web application developers, students, inclu
 
 \*Note: Registration details will be shared with Trainers and Sponsors
 
-**Its mandatory register your spot in advance as we need to organise the seating logistics. Please fill below form to register \(Only Women Hackers\).**
+**The registration is closed. However, all the events and workshops are on first come first serve basis. Please reach the venue early to grab your spot.**
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdsHX5T4psGYcBN4iMscy50nG9UAFdLYUmJlcodxpinjlx\_9A/viewform" %}
 

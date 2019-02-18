@@ -60,5 +60,7 @@ These trainings are 100% FREE to all OWASP Seasides attendees, first come first 
 **About the trainer**  
 **Jason Haddix** is the VP of Researcher Growth at Bugcrowd. Jason trains and works with internal analysts to triage and validate hardcore vulnerabilities in mobile, web, and IoT applications/devices. He also works with Bugcrowd to improve the security industries relations with the researchers. Jason’s interests and areas of expertise include mobile penetration testing, black box web application auditing, network/infrastructural security assessments, wireless network assessment, binary reverse engineering, and static analysis.
 
+**The registration is closed. However, all the events and workshops are on first come first serve basis. Please reach the venue early to grab your spot.**
+
 {% embed url="https://docs.google.com/forms/d/1a669t-Be-PUoIBhSZjCWKtIsenkJ3IcaqbGO6QqBqAo/viewform?edit\_requested=true" %}
 
