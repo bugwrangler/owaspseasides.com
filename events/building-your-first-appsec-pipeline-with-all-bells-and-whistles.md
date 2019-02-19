@@ -1,3 +1,7 @@
+---
+description: '28th February 09:00 AM - 6:00 PM IST'
+---
+
 # Building your first AppSec pipeline with all bells and whistles
 
 **Abstract of the workshop:**

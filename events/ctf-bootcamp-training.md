@@ -1,3 +1,7 @@
+---
+description: '27th February 3:30 PM - 6:00 PM IST'
+---
+
 # CTF Bootcamp/Training
 
 **What’s the Plan?** 

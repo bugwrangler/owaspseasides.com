@@ -1,3 +1,7 @@
+---
+description: '26th February 10:00 AM - 6:00 PM IST'
+---
+
 # Red Team Village
 
 Red Team Village is a community driven combat readiness platform for Red teaming and full scope Cyber security assessments.This community is managed by a group of cyber security and red team tactics enthusiasts. A red teamer needs to be skilled in every aspect of offensive security. We can consider this as a platform to share tactics, techniques, and tools related to various domains of adversarial attack simulation.

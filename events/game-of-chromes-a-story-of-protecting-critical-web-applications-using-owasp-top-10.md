@@ -1,3 +1,7 @@
+---
+description: '27th February 09:00 AM - 6:00 PM IST'
+---
+
 # A story of protecting critical web applications using OWASP Top 10
 
 **Abstract** 
