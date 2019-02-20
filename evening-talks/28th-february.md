@@ -27,6 +27,10 @@
       <td style="text-align:left">Building Your Hacker BlackBox for Fun And Profit</td>
     </tr>
     <tr>
+      <td style="text-align:left">Andrew van der Stock</td>
+      <td style="text-align:left">OWASP ASVS (Application Security Verification Standard</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Adhokshaj Mishra</td>
       <td style="text-align:left">Tempsmitter: Data Exfiltration Using CPU Temperature</td>
     </tr>
