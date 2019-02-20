@@ -35,6 +35,9 @@
           </li>
           <li><a href="https://twitter.com/deep0x00">Deepanshu Gajbhiye</a>
           </li>
+          <li>Bhashit Pandya</li>
+          <li>Vishal Panchal</li>
+          <li>Arun S</li>
         </ul>
       </th>
     </tr>
