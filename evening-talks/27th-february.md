@@ -28,6 +28,10 @@
       <td style="text-align:left">How I brought my car in 4 days of bug hunting</td>
     </tr>
     <tr>
+      <td style="text-align:left">Henrik Noelscher</td>
+      <td style="text-align:left">Car Hacking Nowadays</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Nitin Lakshmanan</td>
       <td style="text-align:left">
         <p>Attacking your in-ear fitness coach: Next generation exploits for</p>
@@ -38,9 +42,7 @@
       <td style="text-align:left">Chloé Messdaghi</td>
       <td style="text-align:left">
         <p>Fixing the Internet's Auto-Immune Problem: Bilateral Safe Harbor</p>
-        <p>for Good-Faith Hackers
-          <br />
-        </p>
+        <p>for Good-Faith Hackers</p>
       </td>
     </tr>
     <tr>

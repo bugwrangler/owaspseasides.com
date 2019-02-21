@@ -31,10 +31,6 @@
       <td style="text-align:left">OWASP ASVS (Application Security Verification Standard</td>
     </tr>
     <tr>
-      <td style="text-align:left">Adhokshaj Mishra</td>
-      <td style="text-align:left">Tempsmitter: Data Exfiltration Using CPU Temperature</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Sunil kumar S</td>
       <td style="text-align:left">
         <p>Mallory in a Modern World: Practical exploitation of IoT systems</p>
