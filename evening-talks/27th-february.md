@@ -2,7 +2,17 @@
 
 **Panel Discussion**
 
-* Long Journey into Cyber Security Entrepreneurship
+* Entrepreneurs in cyber security business
+
+**Panelists** 
+
+* Rahul sasi - Founder at Cloudsek
+* Ricky Rajkumar - Founder at IntouchWorld 
+* Mark Felegyhazi - CEO at Avatao 
+
+**Panel Moderator** 
+
+* Waseem Chisty - Principal Consultant at IntouchWorld
 
  **Evening Talks**
 
