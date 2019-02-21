@@ -3,6 +3,7 @@
 _**Platinum Sponsors**_
 
 [![](../.gitbook/assets/bugcrowd.png)](https://www.bugcrowd.com/)
+[![](../.gitbook/assets/avataologo_blue.png)](https://avatao.com/)
 
 _**Gold Sponsors**_
 
