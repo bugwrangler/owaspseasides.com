@@ -2,7 +2,17 @@
 
 **Panel Discussion**
 
-* Future of Bug Bounty
+* Bug Bounty Craft
+
+**Panelists:**
+
+* Jason Haddix
+* Bugcrowd Ambassador Saubhagya Srivastava339
+* Bugcrowd Ambassador Abartan Dhakal
+
+**Moderator:**
+
+* Chloé Messdaghi
 
 **Evening Talks**
 
