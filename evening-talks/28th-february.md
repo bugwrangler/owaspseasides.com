@@ -7,8 +7,8 @@
 **Panelists:**
 
 * Jason Haddix
-* Bugcrowd Ambassador Saubhagya Srivastava339
-* Bugcrowd Ambassador Abartan Dhakal
+* Saubhagya Srivastava339
+* Abartan Dhakal
 
 **Moderator:**
 
