@@ -12,7 +12,7 @@
 
 **Panel Moderator** 
 
-* Waseem Chisty - Principal Consultant at IntouchWorld
+* Ajit Hatti - Founder at Pureid.io
 
  **Evening Talks**
 
