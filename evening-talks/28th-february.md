@@ -15,10 +15,6 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Tamaghna Basu</td>
-      <td style="text-align:left">Detecting and Fighting identity frauds using Behavioural Biometrics</td>
-    </tr>
-    <tr>
       <td style="text-align:left">Glenn ten Cate</td>
       <td style="text-align:left">Making the web secure by design</td>
     </tr>

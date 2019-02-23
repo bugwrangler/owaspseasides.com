@@ -12,7 +12,7 @@
 
 **Panel Moderator** 
 
-* Ajit Hatti - Founder at Pureid.io
+* Ajit Hatti - Founder at Pureid
 
  **Evening Talks**
 
