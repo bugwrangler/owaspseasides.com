@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Armaan Pathan</td>
-      <td style="text-align:left">How I brought my car in 4 days of bug hunting</td>
+      <td style="text-align:left">How I bought my car in 4 days of bug hunting</td>
     </tr>
     <tr>
       <td style="text-align:left">Henrik Noelscher</td>
