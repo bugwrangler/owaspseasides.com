@@ -23,8 +23,6 @@
           </li>
           <li><b>Pankaj Upadhyay</b>
           </li>
-          <li><b>Avkash</b>
-          </li>
           <li><b>Sandeep Singh</b>
           </li>
           <li><b>Hrishikesh</b>
@@ -36,8 +34,9 @@
           <li><a href="https://twitter.com/deep0x00">Deepanshu Gajbhiye</a>
           </li>
           <li>Bhashit Pandya</li>
+          <li>Shivendra Saxena</li>
           <li>Vishal Panchal</li>
-          <li>Arun S</li>
+          <li>Namrata (Namu)</li>
         </ul>
       </th>
     </tr>
