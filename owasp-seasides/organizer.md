@@ -11,22 +11,16 @@
           </li>
           <li><a href="https://twitter.com/abhinavsejpal"><b>Abhinav Sejpal</b></a>
           </li>
-          <li><b>Aashish Kumar</b>
-          </li>
           <li><a href="https://twitter.com/4w4r44"><b>Saurabh Chaudhary</b></a>
-          </li>
-          <li><a href="https://twitter.com/anantshri"><b>Anant Shrivastava</b></a>
           </li>
           <li><a href="https://twitter.com/TweetsFromPanda"><b>Abhinav P</b></a>
           </li>
           <li><a href="https://twitter.com/parveen1015"><b>Parveen Yadav</b></a>
           </li>
           <li>Ravi Rajput</li>
-          <li><b>Pankaj Upadhyay</b>
-          </li>
           <li><b>Sandeep Singh</b>
           </li>
-          <li><b>Hrishikesh</b>
+          <li><b>Hrishikesh S</b>
           </li>
           <li><a href="https://twitter.com/0ddhawk?s=08">Narendra Sharma</a>
           </li>
@@ -41,6 +35,12 @@
           <li>Sheeraz Ali</li>
           <li>Amol Bhure</li>
           <li>Deepak Rathore</li>
+          <li><b>Pankaj Upadhyay</b>
+          </li>
+          <li><a href="https://twitter.com/anantshri"><b>Anant Shrivastava</b></a>
+          </li>
+          <li><b>Aashish Kumar</b>
+          </li>
         </ul>
       </th>
     </tr>
