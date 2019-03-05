@@ -21,6 +21,7 @@
           </li>
           <li><a href="https://twitter.com/parveen1015"><b>Parveen Yadav</b></a>
           </li>
+          <li>Ravi Rajput</li>
           <li><b>Pankaj Upadhyay</b>
           </li>
           <li><b>Sandeep Singh</b>
@@ -35,6 +36,9 @@
           <li>Shivendra Saxena</li>
           <li>Vishal Panchal</li>
           <li>Namrata (Namu)</li>
+          <li>Prashant Gaur</li>
+          <li>Devendra Kumar</li>
+          <li>Sheeraz Ali</li>
           <li>Amol Bhure</li>
           <li>Deepak Rathore</li>
         </ul>
