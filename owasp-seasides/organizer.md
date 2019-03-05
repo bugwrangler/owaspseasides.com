@@ -27,8 +27,6 @@
           </li>
           <li><b>Hrishikesh</b>
           </li>
-          <li><a href="https://twitter.com/amolbhure"><b>Amol Bhure</b></a>
-          </li>
           <li><a href="https://twitter.com/0ddhawk?s=08">Narendra Sharma</a>
           </li>
           <li><a href="https://twitter.com/deep0x00">Deepanshu Gajbhiye</a>
@@ -37,6 +35,8 @@
           <li>Shivendra Saxena</li>
           <li>Vishal Panchal</li>
           <li>Namrata (Namu)</li>
+          <li>Amol Bhure</li>
+          <li>Deepak Rathore</li>
         </ul>
       </th>
     </tr>
