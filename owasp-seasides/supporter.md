@@ -4,3 +4,5 @@
 
 [![](../.gitbook/assets/hl.jpg)](http://hackinglaymen.com)
 
+[![](../.gitbook/assets/bazarville.png)](https://www.bazarville.com/)
+

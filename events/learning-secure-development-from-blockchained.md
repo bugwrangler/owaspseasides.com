@@ -1,3 +1,7 @@
+---
+description: '26th February 10:00 AM - 6:00 PM IST'
+---
+
 # Blockchain Village
 
 **Abstract :**

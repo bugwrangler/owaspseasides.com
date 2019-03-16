@@ -1,3 +1,7 @@
+---
+description: '28th February 09:00 AM - 6:00 PM IST'
+---
+
 # Bug Hunter's Methodology
 
 **Course Abstract**

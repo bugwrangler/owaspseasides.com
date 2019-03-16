@@ -2,7 +2,7 @@
 
 _**Platinum Sponsors**_
 
-[![](../.gitbook/assets/bugcrowd.png)](https://www.bugcrowd.com/)
+[![](../.gitbook/assets/bugcrowd.png)](https://www.bugcrowd.com/) [![](../.gitbook/assets/avataologo_blue.png)](https://avatao.com/)
 
 _**Gold Sponsors**_
 
@@ -14,7 +14,7 @@ _**Combined Gold Sponsor** \(**Bug Bounty World +**_ [_**Peritus**_](http://www.
 
 _**Bronze Sponsors**_
 
-\_\_[![](../.gitbook/assets/we45_logo_new_white.png)](https://www.we45.com/) \_\_[![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net)
+\_\_[![](../.gitbook/assets/we45_logo_new_white.png)](https://www.we45.com/) \_\_[![](../.gitbook/assets/intouch-world-squarelogo-1469090815534.png)](http://www.intouchworld.net) \_\_[![](../.gitbook/assets/cloudsek_logo.png)](https://cloudsek.com/)
 
 _**Special Supporters**_
 

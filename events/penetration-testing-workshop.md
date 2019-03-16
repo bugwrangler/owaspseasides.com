@@ -1,3 +1,7 @@
+---
+description: '27th February 09:00 AM - 6:00 PM IST'
+---
+
 # Women Only - Web Application Security
 
 **Abstract**
@@ -33,7 +37,7 @@ This is an introductory Workshop for web application developers, students, inclu
 **Co-Trainers:** 
 
 * Namrata Mallick
-* Sree Lakshmi
+* Sri Lakshmi
 
 \*Note: Registration details will be shared with Trainers and Sponsors
 
