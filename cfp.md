@@ -6,5 +6,7 @@ Just fill out the form below. Of course, you'll have to figure out how to get th
 
 Still not sure or have more questions? You can reach us at: [cfpowaspseasides@owasp.org](mailto:cfpowaspseasides@owasp.org) 
 
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfie40Hp8VAF5gMiVscxYwapdOG8hVmtWEGPwZ-fHYSJtkF2Q/formResponse" %}
+
 
 
