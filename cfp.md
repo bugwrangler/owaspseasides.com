@@ -1,4 +1,4 @@
-# Call for Papers \(CFP\)
+# Call for Ideas \(CFI\)
 
 Have an awesome story to share - a recent hack, your Infosec journey, or cool bounty experiences? Come share your experiences and motivate others with your success stories or learn from the pitfalls you've had!
 
