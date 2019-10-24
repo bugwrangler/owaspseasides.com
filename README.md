@@ -10,5 +10,7 @@ If you want to be part of event and speak at the events then please fill the CFI
 
 {% page-ref page="./" %}
 
+{% page-ref page="venue-for-the-conference.md" %}
+
  
 
