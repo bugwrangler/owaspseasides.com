@@ -6,5 +6,9 @@ Through OWASP [Bangalore chapter](https://www.owasp.org/index.php/Bangalore) we 
 
 [nullcon](https://nullcon.net/website/) has been doing a great job getting researchers from all over the world to India. If you are coming for [nullcon 2020](https://nullcon.net/website/) then we are giving you more reasons to come early and participate in [OWASP](https://www.owasp.org/index.php/Main_Page) and [null ](https://null.co.in/)community events.
 
-If you want to be part of event and speak at the events then please fill the CFI \(Call for ideas\) form. 
+If you want to be part of event and speak at the events then please fill the CFI \(Call for ideas\) form.
+
+{% page-ref page="./" %}
+
+ 
 
