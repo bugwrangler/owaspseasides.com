@@ -1,6 +1,8 @@
 # Call for Trainers
 
-We are seeking Call for Training on some of the below topics: 
+Hi All,
+
+Call for Trainings is open. We are seeking Trainings on some of the below topics: 
 
 * DevSecops
 *  Advance Web Hacking, topics like SSRF, XXE, Deserialization issues
