@@ -8,4 +8,5 @@
 * [Sponsorships](sponsorships.md)
 * [Trainings](trainings/README.md)
   * [Mobile Security Testing Hands-On - iOS Edition \(1 day\) - 04th March 2020](trainings/mobile-security-testing-guide-hands-on-ios-edition-1-day.md)
+  * [Mobile Security Testing Hands-On - Android Edition \(1 day\)  -03th March 2020](trainings/mobile-security-testing-hands-on-android-edition-1-day-03th-march-2020.md)
 
