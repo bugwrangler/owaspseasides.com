@@ -1,4 +1,4 @@
-# Mobile Security Testing Guide Hands-On - iOS Edition \(1 day\)
+# Mobile Security Testing Hands-On - iOS Edition \(1 day\)
 
 **Training summary**
 
