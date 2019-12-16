@@ -17,8 +17,7 @@ At the beginning of the course we start by giving an overview of the iOS Platfor
 * Frida detection mechanism
 * and other client side security controls ****
 
-**At the end of the course, small groups will be created and time will be given to investigate an app with the newly learned skills. Every team is then encouraged to make a short presentation about the analysed vulnerability.**  
-
+**At the end of the course, small groups will be created and time will be given to investigate an app with the newly learned skills. Every team is then encouraged to make a short presentation about the analysed vulnerability.**
 
 **After successful completion of this course, students will have a better understanding of how to test for vulnerabilities in iOS apps, how to mitigate them and how to execute tests consistently. The course is based on the OWASP Mobile Security Testing Guide \(MSTG\) and the OWASP Mobile AppSec Verification Standard \(MASVS\) and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android.**   
 
