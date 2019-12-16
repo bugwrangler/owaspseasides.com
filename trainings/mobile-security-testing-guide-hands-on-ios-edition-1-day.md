@@ -1,4 +1,4 @@
-# Mobile Security Testing Hands-On - iOS Edition \(1 day\)
+# Mobile Security Testing Hands-On - iOS Edition \(1 day\) - 03rd March 2020
 
 **Training summary**
 
