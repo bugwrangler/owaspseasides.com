@@ -60,8 +60,6 @@ Sven made several stops at big consultant companies and small boutique firms in 
 * August 2018 - 2 day Workshop for Mobile Security at Null Singapore - Pro Bono
 * Numerous web application and mobile application security trainings for clients in Singapore and Indonesia in the last 3 years ****
 
-Fill out the registration form
-
-[https://docs.google.com/forms/d/1l0JWU9j-t\_i0xJDF6NK7SPQoevcGx\_ijkmsMoyvmxPk](https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk/edit)   
-
+Fill out the registration form:-  
+[https://docs.google.com/forms/d/1l0JWU9j-t\_i0xJDF6NK7SPQoevcGx\_ijkmsMoyvmxPk](https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk/edit) 
 
