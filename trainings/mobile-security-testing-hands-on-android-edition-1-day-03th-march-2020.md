@@ -58,5 +58,10 @@ Sven made several stops at big consultant companies and small boutique firms in 
 * Oct 2018 - OWASP Bay Area Chapter - Mobile Testing Workshop - Pro Bono
 * Oct 2018 - MSTG Hands-on at OWASP AppSec USA - https://appsecus2018.sched.com/event/F00G/2-day-training-mobile-security-testing-guide-hands-on
 * August 2018 - 2 day Workshop for Mobile Security at Null Singapore - Pro Bono
-* Numerous web application and mobile application security trainings for clients in Singapore and Indonesia in the last 3 years **** 
+* Numerous web application and mobile application security trainings for clients in Singapore and Indonesia in the last 3 years ****
+
+Fill out the registration form
+
+[https://docs.google.com/forms/d/1l0JWU9j-t\_i0xJDF6NK7SPQoevcGx\_ijkmsMoyvmxPk](https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk/edit)   
+
 
