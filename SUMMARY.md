@@ -11,4 +11,6 @@
   * [Mobile Security Testing Hands-On - iOS Edition \(1 day\) - 04th March 2020](trainings/mobile-security-testing-guide-hands-on-ios-edition-1-day.md)
 * [Social Media](social-media.md)
 * [Sponsors](sponsors.md)
+* [Untitled](untitled.md)
+* [Scholarship Opportunity](scholarship-opportunity.md)
 
