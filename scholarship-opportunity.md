@@ -1,6 +1,8 @@
 # Scholarship Opportunity
 
+We have sponsorship opptunity available for the partcipants who are students or who need help with the logistics.
 
+Kindly fill the below form, we will send the confirmation email to the selected participants
 
 
 
