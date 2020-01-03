@@ -1,2 +1,2 @@
-# Hardware Village
+# Hardware Hacking Village
 

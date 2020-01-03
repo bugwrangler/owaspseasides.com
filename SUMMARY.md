@@ -6,7 +6,7 @@
 * [Photo Gallery - 2019](photo-gallery.md)
 * [Call for Trainers](call-for-trainers.md)
 * [Sponsorships](sponsorships.md)
-* [Hardware Village](hardware-village/README.md)
+* [Hardware Hacking Village](hardware-village/README.md)
   * [Build your own hacking gadgets \(3 Days\)](hardware-village/open-source-hardware-testing-3-days.md)
 * [Trainings](trainings/README.md)
   * [Web-App Pentesting \(Diversity Focused Training\) -04th March 2020](trainings/web-app-pentesting-diversity-focused-training-04th-march-2020.md)
