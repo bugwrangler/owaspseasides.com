@@ -1,4 +1,4 @@
-# Open source Hardware Testing \(3 Days\)
+# Build your own hacking gadgets \(3 Days\)
 
 About The Trainer: Seedon D'Souza \(Security Researcher\) Opensource Hardware
 
@@ -7,4 +7,8 @@ What: Learn how to build your own hacking gadgets, a hands-on workshop on buildi
 HOW: groups will be made and provided with an ESP 8266 and a Digispark module. Attendees will get hands-on experience on programming a micro-controller and will get to take home their new WiFi Deauther and Bad USB.
 
 WHY: This workshop introduces the audience to micro-controllers & hardware, disproves some of the myths about hardware being complicated. The author of the workshop has experience building control system for UGV/UAV and other embedded systems.
+
+{% embed url="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit" %}
+
+
 
