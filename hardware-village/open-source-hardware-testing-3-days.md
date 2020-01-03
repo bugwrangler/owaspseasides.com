@@ -8,6 +8,11 @@ HOW: groups will be made and provided with an ESP 8266 and a Digispark module. A
 
 WHY: This workshop introduces the audience to micro-controllers & hardware, disproves some of the myths about hardware being complicated. The author of the workshop has experience building control system for UGV/UAV and other embedded systems.
 
+**Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners! built around a ESP 8266 microcontroller**  
+more about this project over at [**https://github.com/spacehuhn/esp8266\_deauther**](https://github.com/spacehuhn/esp8266_deauther)
+
+**The Village will run till the time Hardware is there.**
+
 {% embed url="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit" %}
 
 
