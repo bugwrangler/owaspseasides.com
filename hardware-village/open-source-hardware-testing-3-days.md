@@ -1,6 +1,6 @@
 # Build your own hacking gadgets
 
-What: Learn how to build your own hacking gadgets, a hands-on workshop on building a WiFi Deauther & a Bad USB, as you dive into the Arduino project and your first micro-controller.
+What: Learn how to build your own hacking gadgets, a hands-on workshop on building a WiFi Deauther & a Bad USB, as you dive into the Arduino project and your first micro-controller. How to build the following devices. 1. BAD USB 2. WiFi Jammer/Deauther
 
 HOW: groups will be made and provided with an ESP 8266 and a Digispark module. Attendees will get hands-on experience on programming a micro-controller and will get to take home their new WiFi Deauther and Bad USB.
 
