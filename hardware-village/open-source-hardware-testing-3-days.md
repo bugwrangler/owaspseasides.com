@@ -1,4 +1,4 @@
-# Build your own hacking gadgets \(3 Days\)
+# Build your own hacking gadgets
 
 About The Trainer: Seedon D'Souza \(Security Researcher\) Opensource Hardware
 
