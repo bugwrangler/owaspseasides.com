@@ -6,6 +6,8 @@ Facebook : [https://www.facebook.com/owaspseasides/](https://www.facebook.com/ow
 
 Linkedin :  [https://www.linkedin.com/company/owaspseasides/](https://www.linkedin.com/company/owaspseasides/) 
 
+Newsletter : Get notified about the important OWASP SEA SIDES updates - 
+
 {% embed url="http://eepurl.com/gOP9nP" %}
 
 
