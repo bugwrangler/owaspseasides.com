@@ -1,6 +1,6 @@
 # About OWASP Seasides
 
-Welcome to the Annual OWASP SeaSides InfoSec event. 
+Welcome to the Annual OWASP SeaSides InfoSec Conference. 
 
 Through OWASP [Bangalore chapter](https://www.owasp.org/index.php/Bangalore) we aim to provide free of cost premium workshops and talks to all the participants. We plan to have Workshop on **3rd** **to 5th March 2020 \(9:00 AM to 5:00 PM\).**
 
